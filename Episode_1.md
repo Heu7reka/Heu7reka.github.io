@@ -4,4 +4,4 @@
 
 -de la bombe
 
-![alt text](./images/Eurogroup.png "Logo Title Text 1")
+![Logo Eurogroup](./images/Eurogroup.png)
