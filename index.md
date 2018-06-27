@@ -1,4 +1,4 @@
-# Liquid
+# Heu?reka
 
 {% for page in site.html_pages %}
   {% if page.url != '/' %}
