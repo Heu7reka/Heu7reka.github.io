@@ -10,7 +10,7 @@ P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
 Y : La production
 
 
-##Pour aller plus loin
+## Pour aller plus loin
 
 La masse monétaire augmente de 140%
 L'inflation de 35%
