@@ -30,3 +30,9 @@ Numéro 2 : l’idée d’utiliser l’équation de Friedman pour justifier du f
 Numéro 3 : l’équation de Friedman ne tient pas compte de la spéculation. La masse monétaire utilisée pour faire augmenter les prix d’actifs immobiliers et financiers n’est pas prise en compte. On pourrait penser que les bulles spéculatives participent à l‘inflation mais ce n’est pas le cas car les biens d’occasions sont exclus du calcul. On pourrait alors réécrire l’équation de Friedman de manière suivante pour tenir compte de ces bulles spéculatives et attention ici je précise : c’est moi réécris ça comme ça parce que je trouve que ça permets de mieux se rendre compte de ce qui se passe mais ce n’est absolument pas une formulation officielle.
 
 Numéro 4 : Depuis la mise en place de l’euro, et plus généralement, depuis que le début de la financiarisation de l’économie, la fameuse époque Thatcher et Reagan. Plus que l’inflation ou que la production économique, la création monétaire a surtout financé la spéculation. Si la planche à billet publique a été accusée d’être inflationniste, ce qui a mené à un retrait de pouvoir de création monétaire aux états membres de la zone euro, force est de constater que la planche à billet privée a été essentiellement spéculative. Ce qui pose donc les questions suivantes : qui devrait être en charge de cette foutue planche à billets ? Qui devrait définir ce que l’on en fait ? Et comment peut-on contrôler que son usage est conforme à ce qu’on a décidé de faire ?
+
+
+## Les sources
+
+PIB réel de la zone euro : https://fred.stlouisfed.org/series/CLVMEURSCAB1GQEA19
+
