@@ -8,9 +8,9 @@ M * V = P * Y
 
 M : Masse monétaire
 
-V : Vitesse de circulation de la monnaie *same paragraph*
+V : Vitesse de circulation de la monnaie
 
-P : Le niveau général des prix (n'inclue pas le marché de l'occasion) *same paragraph*
+P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
 
 Y : La production *same paragraph*
 
