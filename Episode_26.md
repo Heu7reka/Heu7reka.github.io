@@ -42,6 +42,6 @@ M3 en Zone Euroe (Fred StLouis : M3 for Euro Area) : https://fred.stlouisfed.org
 
 Pour ce qui est de la critique de Milton Friedman et du courant de pensé monétariste, je me base sur mes connaissances personnelles. Vous pourrez trouver plus d'information dans deux ouvrages :
 
-"L'importure économique" par **Steve Keen
+"L'importure économique" par **Steve Keen**
 
-"A quoi sert la banque centrale européenne ?" par **Edwin Le Héron
+"A quoi sert la banque centrale européenne ?" par **Edwin Le Héron**
