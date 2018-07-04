@@ -38,7 +38,7 @@ PIB réel de la Zone Euro (Fred StLouis : Real Gross Domestic Product (Euro/ECU 
 
 Inflation en Zone Euro (Eurostat : HICP (2015 = 100) - monthly data (index) (prc_hicp_midx)) : http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do
 
-M3 en Zone Euroe (Fred StLouis : M3 for Euro Area) : https://fred.stlouisfed.org/series/MYAGM3EZM196N
+M3 en Zone Euro (Fred StLouis : M3 for Euro Area) : ici[https://fred.stlouisfed.org/series/MYAGM3EZM196N]
 
 Pour ce qui est de la critique de Milton Friedman et du courant de pensé monétariste, je me base sur mes connaissances personnelles. Vous pourrez trouver plus d'information dans deux ouvrages :
 
