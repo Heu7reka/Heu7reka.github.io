@@ -34,5 +34,10 @@ Numéro 4 : Depuis la mise en place de l’euro, et plus généralement, depuis 
 
 ## Les sources
 
-PIB réel de la zone euro : https://fred.stlouisfed.org/series/CLVMEURSCAB1GQEA19
+PIB réel de la Zone Euro (Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)) : https://fred.stlouisfed.org/series/CLVMEURSCAB1GQEA19
+
+Inflation en Zone Euro (HICP (2015 = 100) - monthly data (index) (prc_hicp_midx)) : http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do
+
+M3 en Zone Euroe (M3 for Euro Area) : https://fred.stlouisfed.org/series/MYAGM3EZM196N
+
 
