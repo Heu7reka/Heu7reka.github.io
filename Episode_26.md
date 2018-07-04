@@ -34,13 +34,23 @@ Numéro 4 : Depuis la mise en place de l’euro, et plus généralement, depuis 
 
 ## Les sources
 
-PIB réel de la Zone Euro (Fred StLouis : Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)) : https://fred.stlouisfed.org/series/CLVMEURSCAB1GQEA19
+[PIB réel de la Zone Euro](https://fred.stlouisfed.org/series/CLVMEURSCAB1GQEA19)
 
-Inflation en Zone Euro (Eurostat : HICP (2015 = 100) - monthly data (index) (prc_hicp_midx)) : http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do
+Fred StLouis : Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)
 
-M3 en Zone Euro (Fred StLouis : M3 for Euro Area) : ici[https://fred.stlouisfed.org/series/MYAGM3EZM196N]
+
+[Inflation en Zone Euro](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do)
+
+Eurostat : HICP (2015 = 100) - monthly data (index) (prc_hicp_midx)
+
+
+[M3 en Zone Euro](https://fred.stlouisfed.org/series/MYAGM3EZM196N)
+
+Fred StLouis : M3 for Euro Area
+
 
 Pour ce qui est de la critique de Milton Friedman et du courant de pensé monétariste, je me base sur mes connaissances personnelles. Vous pourrez trouver plus d'information dans deux ouvrages :
+
 
 "L'importure économique" par **Steve Keen**
 
