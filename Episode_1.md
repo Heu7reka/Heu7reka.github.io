@@ -7,8 +7,11 @@ L'équation des monétaristes.
 M * V = P * Y
 
 M : Masse monétaire
+
 V : Vitesse de circulation de la monnaie
+
 P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
+
 Y : La production
 
 Le shéma clef :
