@@ -17,6 +17,7 @@ Y : La production
 
 Sur ce shéma :
 
+[M3 vs Inflation vs PIB réel](./images/Eps26_m3_Inflation_PIB_réel.png)
 
 La masse monétaire augmente de 140%
 L'inflation de 35%
