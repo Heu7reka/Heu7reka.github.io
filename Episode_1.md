@@ -11,52 +11,19 @@ V : Vitesse de circulation de la monnaie
 P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
 Y : La production
 
-1 - Une augmentation de la masse monétaire (M) ne se traduira pas forcément dans par de l'inflation (P). La vitesse de circulation de la monnaie (V) de la même manière que la production (Y) pourraient être impactées.
-
-## Pour aller plus loin
-
-Sur ce shéma :
+Le shéma clef :
 
 ### M3 vs Inflation vs PIB réel
 
 ![M3 vs Inflation vs PIB réel](./images/Eps26_m3_Inflation_PIB_réel.png "M3 vs Inflation vs PIB réel")
 
-La masse monétaire augmente de 140%
 
-L'inflation de 35%
+## Récap de l'épisode
 
-La production de 25%
+Numéro 1 : l’équation de Friedman est juste mais on ne peut pas en déduire que l’augmentation de la masse monétaire ne peut que provoquer que de l’inflation. Non seulement cette affirmation va à l’encontre de ce que l’on constate mais en plus, même en essayant de se rattraper aux branches avec ces histoires d’agents économiques rationnels, on n’arrive pas à sauver le raisonnement. La création monétaire intervenant toujours avant une éventuelle production de richesses, les agents économiques devraient toujours ajuster les prix à la hausse sauf que ce n’est pas ce que l’on constate. Donc, la création monétaire peut provoquer de l’inflation, mais pas que. Et les agents économiques ne sont pas rationnels.
 
-Ou sont passés les 80% restants ?
+Numéro 2 : l’idée d’utiliser l’équation de Friedman pour justifier du fait que l’état ne devrait pas avoir accès à la création monétaire est tout aussi infondée. Le seul raisonnement défendable selon la théorie monétariste serait de dire que : comme les banques financent toujours la production, elles ne provoquent pas d’inflation; tandis que comme l’état finance toujours la demande, il provoque toujours de l’inflation. Or, avec leur planche à billet électronique, les banques financent majoritairement la demande et pas la production. Quant à l’état, il est évident que toutes ses dépenses ne concernent pas des aides sociales. Il lui arrive régulièrement de financer des projets de construction utiles voire même nécessaires, donc de financer une production réelle.
 
-M * V = (P * Y)
+Numéro 3 : l’équation de Friedman ne tient pas compte de la spéculation. La masse monétaire utilisée pour faire augmenter les prix d’actifs immobiliers et financiers n’est pas prise en compte. On pourrait penser que les bulles spéculatives participent à l‘inflation mais ce n’est pas le cas car les biens d’occasions sont exclus du calcul. On pourrait alors réécrire l’équation de Friedman de manière suivante pour tenir compte de ces bulles spéculatives et attention ici je précise : c’est moi réécris ça comme ça parce que je trouve que ça permets de mieux se rendre compte de ce qui se passe mais ce n’est absolument pas une formulation officielle.
 
-M : Masse monétaire
-V : Vitesse de circulation de la monnaie
-P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
-Y : La production
-
-
-Il faut bien comprendre que M, P et Y sont mesurables. Ils correspondent respectivement à l'agrégat monétare M3, l'indice des prix à la consommation et le PIB réel. Cela dit, V n'est pas mesurable, on ne peut que le déduire en posant : V = M / Y.
-Avec ma formulation de l'équation des monétaristes :
-
-M * V = (P * Y) + (P' * Y')
-
-P' : Les prix des actifs spéculatifs
-Y' : Les biens financiers et immobiliers d'occasion
-
-P' et Y' ne sont pas mesurables non plus. Techniquement, cela serait surement possible mais, à ma connaissance, ce ne sont pas des indicateurs qui intéressent les économistes.
-
-Conclusion : les 80% restant pourraient très bien s'expliquer par une épargne de plus en plus importante qui s'accumulerait sur les comptes courants de la population. Cette monnaie dormante ne serait alors utilisée, ni pour la spéculation, ni pour l'économie réelle. On aurait donc V qui prend une valeur de plus en plus petite, ce qui expliquerait les 80% manquants.
-
-Ici pour reprendre l'exemple de la vidéo : 
-En 1999 : 100(M) * 12(V) = 100(P) * 12(Y)
-En 2016 : 240(M) * 8.4(V) = 135(P) * 15(Y)
-
-Ici c'est bien la variation de V qui absorbent la différence.
-
-Mais peut-on dire s'il ne s'agirait pas plutôt d'une quantité de monnaie indéterminée qui, au lieu de rester bloquée sur les comptes courants, tourne dans les bulles spéculatives sans jamais trouver son chemin vers l'économie réelle ? Si c'est le cas alors c'est mon indicateur P' qui absorberait la variation. Mais puisqu'on ne calcule pas ce P', on ne peut pas savoir ce qu'il en est.
-
-Les économistes ne font pas la différence entre la monnaie qui circule dans l'économie réelle et celle qui circule dans les bulles spéculatives.
-
-
+Enfin numéro 4 : Depuis la mise en place de l’euro, et plus généralement, depuis que le début de la financiarisation de l’économie, la fameuse époque Thatcher et Reagan. Plus que l’inflation ou que la production économique, la création monétaire a surtout financé la spéculation. Si la planche à billet publique a été accusée d’être inflationniste, ce qui a mené à un retrait de pouvoir de création monétaire aux états membres de la zone euro, force est de constater que la planche à billet privée a été essentiellement spéculative. Ce qui pose donc les questions suivantes : qui devrait être en charge de cette foutue planche à billets ? Qui devrait définir ce que l’on en fait ? Et comment peut-on contrôler que son usage est conforme à ce qu’on a décidé de faire ?
