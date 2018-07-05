@@ -12,7 +12,7 @@ V : Vitesse de circulation de la monnaie
 
 P : Le niveau général des prix (n'inclue pas le marché de l'occasion)
 
-Y : La production *same paragraph*
+Y : La production
 
 Le shéma clef :
 
@@ -49,8 +49,7 @@ Eurostat : HICP (2015 = 100) - monthly data (index) (prc_hicp_midx)
 Fred StLouis : M3 for Euro Area
 
 
-Pour ce qui est de la critique de Milton Friedman et du courant de pensé monétariste, je me base sur mes connaissances personnelles. Vous pourrez trouver plus d'information dans deux ouvrages :
-
+Pour ce qui est de la critique du courant de pensée monétariste, je me base sur mes connaissances personnelles. Vous trouverez plus d'informations dans ces deux ouvrages :
 
 "L'importure économique" par **Steve Keen**
 
