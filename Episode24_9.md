@@ -1,4 +1,4 @@
-# Episode 24-9 : Italie, Espagne et Portugal
+# SPOILER ALERT / L'épisode n'est pas encore sorti !!! Episode 24-9 : Italie, Espagne et Portugal
 
 ## Récap de l'épisode
 
