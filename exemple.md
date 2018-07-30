@@ -17,9 +17,11 @@ Classer les pays en fonction de leur niveau de développement, ici en utilisant 
 
 Source : fred.stlouisfed.org **Harmonized Unemployment Rate: Total: All Persons for Spain** [Lien](https://fred.stlouisfed.org/series/LRHUTTTTESM156S)
 
-Commentaire : Ici je donne l'exemple de l'espagne. Il suffit de copier coller "Harmonized Unemployment Rate: Total: All Persons for" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
+*Commentaire* : Ici je donne l'exemple de l'espagne. Il suffit de copier coller "Harmonized Unemployment Rate: Total: All Persons for" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
 
 Finalement on peut résumer la situation au travers d’un tableau. L’attractivité économique des différents pays du sud est un premier moyen d’expliquer la fuite des capitaux. Ensuite, vient le rôle de la bulle de l’immobilier. L’Espagne et l’Irlande ont été les deux seules victimes. Côté austérité, tous les pays ont souffert, mais force est de constater que c’est la Grèce qui a dû mettre en place les réformes les plus drastiques. En additionnant tout ça, on peut à peu près comprendre l’impact de la crise sur les taux de chômage dans les pays du sud.
+
+---
 
 Maintenant je vais essayer de résumer rapidement ce qui s’est passé dans chacun de ces pays.
 
@@ -29,7 +31,9 @@ Source 1 : **Niveau de dette publique** / Debt Economics.org **Review the data**
 
 Source 2 : **Surplus/Déficit public** Trading Economics **Greece Government Budget** [Lien](https://tradingeconomics.com/greece/government-budget)
 
-Commentaire : Ici je donne l'exemple de la Grèce. Il suffit de copier coller "Government Budget" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
+*Commentaire* : Ici je donne l'exemple de la Grèce. Il suffit de copier coller "Government Budget" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
+
+---
 
 ### Grèce ###
 
@@ -39,7 +43,9 @@ En Grèce, le pays est coupé des marchés financier en premier parce que la sit
 
 Source : Eurostat **Emploi par A*10 branches** [Lien](http://ec.europa.eu/eurostat/web/products-datasets/product?code=nama_10_a10_e)
 
-Commentaire : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hopitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont probablement publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans les tous les pays européens.
+*Commentaire* : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hopitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont probablement publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans les tous les pays européens.
+
+---
 
 ### Irlande ###
 
@@ -48,6 +54,8 @@ En Irlande, le pays connait une forte augmentation du chômage à cause d’une 
 ![Evolution de l'emploi dans le secteur de la construction](./images/Tableau_Chômage_construction.png "Evolution de l'emploi dans le secteur de la construction")
 
 Source : Eurostat **Emploi par A*10 branches** [Lien](http://ec.europa.eu/eurostat/web/products-datasets/product?code=nama_10_a10_e)
+
+---
 
 ### Espagne ###
 
@@ -63,9 +71,13 @@ Cela dit, à cause des prêts garantis qui empêchent les particuliers de faire 
 
 Source : The New York Times **In Spain, Homes Are Taken but Debt Stays** [Lien](https://www.nytimes.com/2010/10/28/world/europe/28spain.html)
 
+---
+
 ### Portugal ###
 
 Au Portugal, comme en Grèce, c’est la situation financière du pays qui pose problème. Sans être aussi endetté ni aussi déficitaire que l’état Grec, le gouvernement Portugais réagi à la fuite des capitaux et aux emplois ouvrier détruits comme tout le monde : il augmente ses dépenses publiques d’ordre sociales. Et comme tout le monde, son déficit et sa dette augmente. Les marchés financiers n’apprécient pas, et comme le pays est petit et facilement évitable, ils décident de lui couper les vivres ce qui force la Troika à intervenir. Cela dit, les mesures d’austérité sont moins importantes qu’en Grèce, et le pays ne connait pas une récession aussi brutale.
+
+---
 
 ### Italie ###
 
@@ -77,6 +89,8 @@ Source : **Unemployment rates by sex, age and metropolitan regions** [Lien](http
 
 Les marchés financiers sont méfiants vis-à-vis du secteur bancaire dans ce pays, comme dans n’importe quel pays qui a connu une forte augmentation du chômage. Parce que qui dit chômage, dit baisse des revenus, donc difficultés à rembourser les emprunts. De plus, l’Italie est un pays très peuplé. Le sauvetage de son secteur bancaire pourrait nécessiter des montants très important. Cela pourrait passer si le gouvernement Italien avait un budget équilibré et une dette relativement modeste, mais ce n’est pas le cas. Le pays reste encore aujourd’hui, le deuxième pays de la zone euro le plus endetté après la Grèce.
 
+---
+
 ### Les emplois publics représentent une base d'emplois stables ###
 
 Pour finir, l’importance du secteur public en termes d’emplois et sa capacité à continuer d’embaucher ou au moins, à éviter de licencier, enfin sauf en Grèce, a probablement permis à de nombreux pays, Nord et Sud, de passer à côté d’une crise beaucoup plus grave.
@@ -85,9 +99,13 @@ Pour finir, l’importance du secteur public en termes d’emplois et sa capacit
 
 Source : Eurostat **Emploi par A*10 branches** [Lien](http://ec.europa.eu/eurostat/web/products-datasets/product?code=nama_10_a10_e)
 
+---
+
 ### En termes de chômage, les secteurs les plus affectés sont ouvriers... ###
 
 Ensuite, si on regarde les secteurs d’activités les plus impactés par les destructions d’emplois, on se rend compte que le monde ouvrier a énormément souffert. Non seulement l’Europe était déjà en train d’opérer une mutation vers les services et avait tendance à se débarrasser de ses emplois ouvriers avant la crise, sauf cas particulier du secteur de la construction. Mais pendant la crise, l’impact a été encore plus important. Particulièrement dans les pays du sud.
+
+---
 
 ### ...mais les emplois liés au secteur du commerce ont également reculé ###
 
