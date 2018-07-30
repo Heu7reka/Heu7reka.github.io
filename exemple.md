@@ -43,7 +43,7 @@ En Grèce, le pays est coupé des marchés financier en premier parce que la sit
 
 Source : Eurostat **Emploi par A*10 branches** [Lien](http://ec.europa.eu/eurostat/web/products-datasets/product?code=nama_10_a10_e)
 
-*Commentaire* : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hopitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont probablement publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans les tous les pays européens.
+*Commentaire* : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hopitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont **probablement** publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans les tous les pays européens.
 
 ---
 
