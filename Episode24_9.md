@@ -1,4 +1,4 @@
-# SPOILER ALERT / L'épisode n'est pas encore sorti !!! Episode 24-9 : Italie, Espagne et Portugal
+# SPOILER ALERT / L'épisode n'est pas encore sorti !!! Episode 24-9 : EVERYOOONE!!!
 
 ## Récap de l'épisode
 
@@ -109,7 +109,7 @@ Ensuite, si on regarde les secteurs d’activités les plus impactés par les de
 
 ### ...mais les emplois liés au secteur du commerce ont également reculé ###
 
-Enfin, pour ce qui est du secteur du « commerce », il s’agit d’activités qui sont toujours impactées quand la consommation au sein d’un pays ralenti. Puisqu’il y a eu beaucoup de chômage dans les pays du sud, les commerces de proximité et les magasins de grande distribution ont vu leur chiffre d’affaires se réduire et ont été obligé de licencier.
+Enfin, pour ce qui est du secteur du « commerce », il s’agit d’activités qui sont toujours impactées quand la consommation au sein d’un pays ralenti. Puisqu’il y a eu beaucoup de chômage dans les pays du sud, les commerces de proximité et les magasins de grande distribution ont vu leur chiffre d’affaires se réduire et ont été obligés de licencier.
 
 
 
