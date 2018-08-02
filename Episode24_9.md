@@ -112,4 +112,9 @@ Ensuite, si on regarde les secteurs d’activités les plus impactés par les de
 Enfin, pour ce qui est du secteur du « commerce », il s’agit d’activités qui sont toujours impactées quand la consommation au sein d’un pays ralenti. Puisqu’il y a eu beaucoup de chômage dans les pays du sud, les commerces de proximité et les magasins de grande distribution ont vu leur chiffre d’affaires se réduire et ont été obligés de licencier.
 
 
+### Les livres qui m'ont permis de réaliser cette série sur la crise de l'Euro
 
+Adults in the room - **Yanis Varoufakis**
+The Euro crisis and its aftermath - **Jean Pisani-Ferry**
+Austerity: the history of a dangerous idea - **Mark Blyth**
+Illusion financière - **Gaël Giraud**
