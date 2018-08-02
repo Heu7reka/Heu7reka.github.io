@@ -1,5 +1,20 @@
 # Episode 26 : Milton Friedman en PLS
 
+## Les erreurs ##
+
+Friedman ne justifie pas la neutralité de la monnaie par la rationalité des agents économiques comme je le dis dans la vidéo. C'est Robert Lucas qui introduira ce concept en 1972 sous le terme de "rational expectations" ou "anticipations rationnelles". Friedman parlait de "adaptative expectations" ou "anticipations adaptatives".
+
+**L'idée est la suivante :** les agents économiques (vous, moi, le premier venu) anticipent le taux d'inflation de cette année en observant ce qui s'est passé l'année dernière et toutes les années avant cela. Si le gouvernement n'a pas utilisé la planche à billets les années précédentes, alors l'inflation était nécessairement de 0% car seule la planche à billets peut créer de l'inflation selon Friedman. Les agents économiques vont donc anticiper une inflation de 0% pour cette nouvelle année. Cela dit, le gouvernement peut soudainement décider d'utiliser la planche à billets et donc de "tromper" les agents économiques. La création monétaire n'entraine pas d'inflation car les agents économiques ont été pris par surprise. Ce qui veut dire que l'action du gouvernement peut être efficace. La planche à billets peut permettre de booster l'activité économique. Cela dit, les agents ne se laisseront pas tromper aussi facilement l'année prochaine. Leurs anticipations auront évolué.
+
+Friedman pensait que les politiques Keynésiennes d'utilisation de la planche à billets pour réduire le taux de chômage entre 1945 et 1970, n'avaient pu fonctionner que parce que les agents économiques se faisaient systématiquement prendre par surprise. Chaque année, la création monétaire dépassait les attentes des agents économiques et donc chaque année, cette création monétaire était efficace : Inflation < Création monétaire. Cela dit, Friedman pensait que les attentes des agents économiques finiraient toujours par dépasser la capacité d'action du gouvernement. On obtiendrait alors une situation de forte inflation non justifiée : Inflation > Création monétaire. Ce qui expliquerait la fameuse période de stagflation.
+
+Pour Friedman, la planche à billets est donc une solution de moyen terme. Certes, on peut améliorer les choses pendant quelques années. Mais au final, l'économie reviendra toujours à l'équilibre. Equilibre qui avait justement été perturbé par les actions du gouvernement. Donc Friedman admettait que la création monétaire par l'état pouvait avoir un impact positif à moyen terme, mais pas à long terme.
+
+La théorie des "anticipation rationnelle" de Lucas propose une vision différente. Pour lui, la planche à billet ne peut pas avoir d'impact sur l'économie. Ni à court terme, ni à moyen terme, ni à long terme. Puisque la réussite de cette politique monétaire menée par l'état peut se résumer en : Inflation < Création monétaire. Lucas propose que, quelle que soit la situation : Inflation = Création monétaire. Ce qui veut dire que les agents économiques ne se font jamais surprendre par les actions de l'état. Quoi qu'il arrive, le taux d'inflation décidé par les agents économiques (ils décident car ce sont eux qui choisissent d'augmenter leurs prix), correspondra toujours à la quantité de monnaie effectivement injectée dans l'économie. Les agents économique ne possèdent plus des anticipations adaptatives, ce qui supposent qu'ils peuvent se tromper, ils possèdent désormais des anticipations rationnelles : ils ne peuvent pas se tromper.
+
+A noter que la théorie des anticipations rationnelles ne dit pas que chaque agent économique ne peut pas se tromper mais que la moyenne des décisions prises par les agents économiques aboutit à une inflation qui correspond exactement à la création monétaire. Certains surestiment l'inflation, d'autres la sous-estiment, mais en moyenne, on tombe pile sur le bon chiffre.
+
+
 ## Les points importants
 
 L'équation des monétaristes.
