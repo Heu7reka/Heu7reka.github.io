@@ -1,4 +1,4 @@
-# SPOILER ALERT / L'épisode n'est pas encore sorti !!! Episode 24-9 : EVERYOOONE!!!
+# Episode 24-9 : EVERYOOONE!!!
 
 ## Récap de l'épisode
 
