@@ -112,11 +112,11 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 2rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
   }
 
   @include small {
@@ -169,7 +169,7 @@ a {
   @include large {
     max-width: 64rem;
     padding: 2rem 6rem;
-    margin: 0 auto;
+    margin: 2rem auto 0 auto;
     font-size: 1.1rem;
   }
 
@@ -340,6 +340,7 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  text-align: center;
 
   @include large {
     font-size: 1rem;
@@ -355,10 +356,12 @@ a {
 }
 
 .site-footer-owner {
+  margin-top: 1rem;
   display: block;
   font-weight: bold;
 }
 
 .site-footer-credits {
   color: $blockquote-text-color;
+  font-weight: bold;
 }
