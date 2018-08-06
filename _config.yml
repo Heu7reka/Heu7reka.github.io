@@ -1,6 +1,16 @@
-theme: jekyll-theme-cayman
-
 title: Heu?reka
+description: Vulgariser la finance et l'économie
+lang: FR-fr
+#url: https://heu7reka.github.io/
+
+theme: jekyll-theme-cayman
+google_analytics:
+
+tipee: https://fr.tipeee.com/heu-reka
+facebook: Heu7reka
+twitter: Heu7reka
+tostadora: https://www.tostadora.fr/?a_aid=2016f021&utm_source=heu7reka&utm_medium=web&utm_campaign=Partenariats
+
 collections:
   episodes:
     output: true
