@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>{%if page.numero %}Épisode {{page.numero}}{% endif %} {{ page.title }}</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.id_video }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+{{ content }}

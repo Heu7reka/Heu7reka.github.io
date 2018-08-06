@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 
 title: Heu?reka
+collections:
+  episodes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode

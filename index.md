@@ -1,7 +1,10 @@
-# Heu?reka
+{% for episode in site.episodes %}
 
-{% for page in site.html_pages %}
-  {% if page.url != '/' %}
-  - [{{ page.title }}]({{ page.url | relative_url }})
-  {% endif %}
+  <h2><img class="avatar" src="{{ "/images/heureka.jpg" | relative_url }}" alt="" /><a href="{{ episode.url | relative_url }}">Épisode n°{{ episode.numero }}{%if episode.partie %}-{{episode.partie}}{% endif %} : {{ episode.title }}</a></h2>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ episode.id_video }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+  <strong><a href="{{ episode.url }}">Lire le récap</a></strong>
+
+  <hr />
 {% endfor %}
