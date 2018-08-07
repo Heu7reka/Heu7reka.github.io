@@ -9,7 +9,7 @@ Source 1 : **PIB, Niveau d'inflation et Population** / Debt Economics.org **Revi
 Source 2 : **Indice de complexité** The Atlas of Economic Complexity **Classement** [Lien](http://atlas.cid.harvard.edu/rankings)
 
 
-Classer les pays en fonction de leur niveau de développement, ici en utilisant l’indice de complexité développé par Harvard et le niveau de PIB/habitant permet déjà de mettre en avant, dans une union monétaire où les capitaux sont libres, les pays qui sont les plus exposés à un effet de panique qui les priveraient de la capacité d’investissement du secteur privé. Ici on comprend bien que la Grèce et le Portugal sont des pays à risque. L’Espagne l’est dans une moindre mesure et l’Italie encore un peu moins. L’Irlande, pour sa part, semble complètement à l’écart. Son seul problème c’est d’être un petit pays, donc un pays facile à éviter si besoin.
+Classer les pays en fonction de leur niveau de développement - ici en utilisant l’indice de complexité développé par Harvard et le niveau de PIB/habitant - permet déjà de mettre en avant, dans une union monétaire où les capitaux sont libres, les pays qui sont les plus exposés à un effet de panique qui les priverait de la capacité d’investissement du secteur privé. Ici on comprend bien que la Grèce et le Portugal sont des pays à risque. L’Espagne l’est dans une moindre mesure et l’Italie encore un peu moins. L’Irlande, pour sa part, semble complètement à l’écart. Son seul problème c’est d’être un petit pays, donc un pays facile à éviter si besoin.
 
 ---
 
@@ -17,9 +17,9 @@ Classer les pays en fonction de leur niveau de développement, ici en utilisant 
 
 Source : fred.stlouisfed.org **Harmonized Unemployment Rate: Total: All Persons for Spain** [Lien](https://fred.stlouisfed.org/series/LRHUTTTTESM156S)
 
-*Commentaire* : Ici je donne l'exemple de l'espagne. Il suffit de copier coller "Harmonized Unemployment Rate: Total: All Persons for" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
+*Commentaire* : Ici je donne l'exemple de l'Espagne. Il suffit de copier coller "Harmonized Unemployment Rate: Total: All Persons for" dans la barre de recherche et de rajouter le pays pour obtenir les données voulues.
 
-Finalement on peut résumer la situation au travers d’un tableau. L’attractivité économique des différents pays du sud est un premier moyen d’expliquer la fuite des capitaux. Ensuite, vient le rôle de la bulle de l’immobilier. L’Espagne et l’Irlande ont été les deux seules victimes. Côté austérité, tous les pays ont souffert, mais force est de constater que c’est la Grèce qui a dû mettre en place les réformes les plus drastiques. En additionnant tout ça, on peut à peu près comprendre l’impact de la crise sur les taux de chômage dans les pays du sud.
+Finalement on peut résumer la situation au travers d’un tableau. L’attractivité économique des différents pays du sud est un premier moyen d’expliquer la fuite des capitaux. Ensuite, vient le rôle de la bulle de l’immobilier. L’Espagne et l’Irlande ont été les deux seules victimes. Côté austérité, tous les pays ont souffert, mais force est de constater que c’est la Grèce qui a dû mettre en place les réformes les plus drastiques. En additionnant tout cela, on peut à peu près comprendre l’impact de la crise sur les taux de chômage dans les pays du sud.
 
 ---
 
@@ -37,19 +37,19 @@ Source 2 : **Surplus/Déficit public** Trading Economics **Greece Government Bud
 
 ### Grèce ###
 
-En Grèce, le pays est coupé des marchés financier en premier parce que la situation financière de son gouvernement est la pire de toute la zone euro. Les mesures d’austérité, trop importantes dès le début font l’inverse de ce qui était attendu, le pays s’enfonce dans la récession, les marchés financiers ne changent pas d’avis quant au financement de l’état Grec et la Troika se retrouve obligée de supporter presque l’ensemble de la dette du pays. D’où la nécessité d’une aide massive de plusieurs centaines de milliards d’euros.
+En Grèce, le pays est coupé des marchés financier en premier parce que la situation financière de son gouvernement est la pire de toute la Zone euro. Les mesures d’austérité, trop importantes dès le début, font l’inverse de ce qui était attendu. Le pays s’enfonce dans la récession, les marchés financiers ne changent pas d’avis quant au financement de l’Etat grec et la Troika se retrouve obligée de supporter presque l’ensemble de la dette du pays. D’où la nécessité d’une aide massive de plusieurs centaines de milliards d’euros.
 
 ![Evolution du nombre d'emplois publics](./images/Graph_Emplois_publics_dans_les_pays_du_sud.png "Evolution du nombre d'emplois publics")
 
 Source : Eurostat **Emploi par A*10 branches** [Lien](http://ec.europa.eu/eurostat/web/products-datasets/product?code=nama_10_a10_e)
 
-*Commentaire* : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hôpitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont **probablement** publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans les tous les pays européens.
+*Commentaire* : Eurostat ne fait pas la distinction entre emplois publics et privés et se contente de faire un classement par secteur. Mon graphique tient compte des catégories suivantes : **ADMINISTRATION PUBLIQUE, SANTÉ HUMAINE ET ACTION SOCIALE, ENSEIGNEMENT**. Mon graphique considère donc que tous les emplois dans ces secteurs sont publics. Pourtant, il existe des hôpitaux privés, des écoles privés etc. La conclusion que je tire : "Les emplois publics n'ont pas diminué sauf en Grèce" me semble justifier car la majorité des emplois dans ces secteurs sont **probablement** publics. Cela dit, je n'ai pas vérifié si c'était effectivement le cas dans tous les pays européens.
 
 ---
 
 ### Irlande ###
 
-En Irlande, le pays connait une forte augmentation du chômage à cause d’une bulle de l’immobilier qui éclate alors que le secteur de la construction était très dynamique. Cette bulle fait également voler en éclat les 3 plus grosses banques Irlandaises qui avaient massivement investis dans des projets immobiliers. L’état Irlandais, pourtant dans une situation financière excellente avant la crise, se retrouve obligé d’aider les chômeurs tout en sauvant les banques. Son déficit et sa dette augmente, les marchés coupent rapidement les vivres au pays, notamment parce que c’est un petit pays, et la Troika doit intervenir. La situation s’améliore rapidement en Irlande avec un retour de l’investissement privé parce que le pays conserve toutes les caractéristiques d’un pays du nord, plus au moins deux avantages : une population qui parle anglais et un taux d’imposition sur les sociétés très attractif.
+En Irlande, le pays connait une forte augmentation du chômage à cause d’une bulle de l’immobilier qui éclate alors que le secteur de la construction était très dynamique. Cette bulle fait également voler en éclat les 3 plus grosses banques irlandaises qui avaient massivement investi dans des projets immobiliers. L’Etat irlandais, pourtant dans une situation financière excellente avant la crise, se retrouve obligé d’aider les chômeurs tout en sauvant les banques. Son déficit et sa dette augmentent, les marchés coupent rapidement les vivres au pays, notamment parce que c’est un petit pays, et la Troika doit intervenir. La situation s’améliore rapidement en Irlande avec un retour de l’investissement privé parce que le pays conserve toutes les caractéristiques d’un pays du nord, plus au moins deux avantages : une population qui parle anglais et un taux d’imposition sur les sociétés très attractif.
 
 ![Evolution de l'emploi dans le secteur de la construction](./images/Tableau_Chômage_construction.png "Evolution de l'emploi dans le secteur de la construction")
 
@@ -65,9 +65,9 @@ Pour l’Espagne, qui a également développé une bulle de l’immobilier, l’
 
 Source : **The Economist house-price index** [Lien](https://infographics.economist.com/2017/HPI/index.html)
 
-Dans le même temps, les recettes fiscales diminuent à cause du ralentissement de l’activité économique. Ainsi, petit à petit, la situation financière du gouvernement Espagnol, pourtant excellente en 2007, devient de plus en plus inquiétante. Cela dit, jamais les marchés ne coupent les vivres au pays. D’abord parce que jamais son déficit public ne monte aussi haut qu’en Irlande ou qu’en Grèce. Egalement parce que son niveau de dette reste longtemps le plus faible de tous les pays du sud, mais aussi parce que l’Espagne n’est pas un petit pays. Pour les financiers, éviter la dette souveraine espagnole n’est pas une mince affaire. Malgré cela, la Troika est suffisamment inquiète pour intervenir en 2012 afin d’aider le pays à sauver ses banques. Parce que les trois grosses banques espagnoles, plus internationales que les banques Irlandaises, n’ont pas besoin d’être sauvées. Et parce que celles qui en ont besoin, les caisses d’épargnes, sont mieux capitalisées que les banques Irlandaises, l’aide de la Troika est relativement faible.
+Dans le même temps, les recettes fiscales diminuent à cause du ralentissement de l’activité économique. Ainsi, petit à petit, la situation financière du gouvernement espagnol, pourtant excellente en 2007, devient de plus en plus inquiétante. Cela dit, jamais les marchés ne coupent les vivres au pays. D’abord parce que son déficit public ne monte jamais aussi haut qu’en Irlande ou qu’en Grèce. Egalement parce que son niveau de dette reste longtemps le plus faible de tous les pays du sud, mais aussi parce que l’Espagne n’est pas un petit pays. Pour les financiers, éviter la dette souveraine espagnole n’est pas une mince affaire. Malgré cela, la Troika est suffisamment inquiète pour intervenir en 2012 afin d’aider le pays à sauver ses banques. Cependant, parce que les trois grosses banques espagnoles, plus internationales que les banques Irlandaises, n’ont pas besoin d’être sauvée, et car celles qui en ont besoin, les caisses d’épargnes, sont mieux capitalisées que les banques irlandaises, l’aide de la Troika est relativement faible.
 
-Cela dit, à cause des prêts garantis qui empêchent les particuliers de faire défaut, la santé des banques espagnoles est difficile à évaluer et les marchés financiers sont méfiants.
+Cela dit, étant donnés les prêts garantis qui empêchent les particuliers de faire défaut, la santé des banques espagnoles est difficile à évaluer et les marchés financiers sont méfiants.
 
 Source : The New York Times **In Spain, Homes Are Taken but Debt Stays** [Lien](https://www.nytimes.com/2010/10/28/world/europe/28spain.html)
 
@@ -75,19 +75,19 @@ Source : The New York Times **In Spain, Homes Are Taken but Debt Stays** [Lien](
 
 ### Portugal ###
 
-Au Portugal, comme en Grèce, c’est la situation financière du pays qui pose problème. Sans être aussi endetté ni aussi déficitaire que l’état Grec, le gouvernement Portugais réagi à la fuite des capitaux et aux emplois ouvrier détruits comme tout le monde : il augmente ses dépenses publiques d’ordre sociales. Et comme tout le monde, son déficit et sa dette augmente. Les marchés financiers n’apprécient pas, et comme le pays est petit et facilement évitable, ils décident de lui couper les vivres ce qui force la Troika à intervenir. Cela dit, les mesures d’austérité sont moins importantes qu’en Grèce, et le pays ne connait pas une récession aussi brutale.
+Au Portugal, comme en Grèce, c’est la situation financière du pays qui pose problème. Sans être aussi endetté ni aussi déficitaire que l’Etat grec, le gouvernement portugais réagi à la fuite des capitaux et aux emplois ouvrier détruits comme tout le monde : il augmente ses dépenses publiques d’ordre social. Et comme tout le monde, son déficit et sa dette augmentent. Les marchés financiers n’apprécient pas. Et comme le pays est petit et facilement évitable, ils décident de lui couper les vivres, ce qui force la Troika à intervenir. Cela dit, les mesures d’austérité sont moins importantes qu’en Grèce, et le pays ne connait pas une récession aussi brutale.
 
 ---
 
 ### Italie ###
 
-Enfin en Italie, le problème vient essentiellement de la division du pays en deux régions distinctes : celle du nord, développée, complexe, et qui attire les capitaux, et celle du Sud qui a beaucoup plus de mal à s’en sortit économiquement. Le chômage augmente en Italie pendant la crise principalement à cause des régions du Sud.
+Enfin en Italie, le problème vient essentiellement de la division du pays en deux régions distinctes : celle du nord, développée, complexe, et qui attire les capitaux, et celle du sud qui a beaucoup plus de mal à s’en sortit économiquement. Le chômage augmente en Italie pendant la crise principalement à cause des régions du sud.
 
 ![Chômage en Italie](./images/Graph_Chômage_en_italie.png "Chômage en Italie")
 
 Source : Eurostat **Unemployment rates by sex, age and metropolitan regions / met_lfu3rt** [Lien](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do)
 
-Les marchés financiers sont méfiants vis-à-vis du secteur bancaire dans ce pays, comme dans n’importe quel pays qui a connu une forte augmentation du chômage. Parce que qui dit chômage, dit baisse des revenus, donc difficultés à rembourser les emprunts. De plus, l’Italie est un pays très peuplé. Le sauvetage de son secteur bancaire pourrait nécessiter des montants très important. Cela pourrait passer si le gouvernement Italien avait un budget équilibré et une dette relativement modeste, mais ce n’est pas le cas. Le pays reste encore aujourd’hui, le deuxième pays de la zone euro le plus endetté après la Grèce.
+Les marchés financiers sont méfiants vis-à-vis du secteur bancaire dans ce pays, comme dans n’importe quel pays qui a connu une forte augmentation du chômage. Car qui dit chômage, dit baisse des revenus, donc difficultés à rembourser les emprunts. De plus, l’Italie est un pays très peuplé. Le sauvetage de son secteur bancaire pourrait nécessiter des montants très important. Cela pourrait passer si le gouvernement Italien avait un budget équilibré et une dette relativement modeste, mais ce n’est pas le cas. Le pays reste encore aujourd’hui le deuxième pays de la Zone euro le plus endetté après la Grèce.
 
 ---
 
@@ -109,7 +109,7 @@ Ensuite, si on regarde les secteurs d’activités les plus impactés par les de
 
 ### ...mais les emplois liés au secteur du commerce ont également reculé ###
 
-Enfin, pour ce qui est du secteur du « commerce », il s’agit d’activités qui sont toujours impactées quand la consommation au sein d’un pays ralenti. Puisqu’il y a eu beaucoup de chômage dans les pays du sud, les commerces de proximité et les magasins de grande distribution ont vu leur chiffre d’affaires se réduire et ont été obligés de licencier.
+Enfin, pour ce qui est du secteur du « commerce », il s’agit d’activités qui sont toujours impactées quand la consommation au sein d’un pays ralenti. Puisqu’il y a eu beaucoup de chômage dans les pays du sud, les commerces de proximité et les magasins de grande distribution ont vu leurs chiffres d’affaires se réduire et ont été obligés de licencier.
 
 
 ### Les livres qui m'ont permis de réaliser cette série sur la crise de l'Euro
