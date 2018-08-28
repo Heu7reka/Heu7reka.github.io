@@ -70,9 +70,9 @@ Si la prise de valeur de l’action était justifiée par une augmentation réel
 
 ## Sources :
 
-**Executive Compensation: A Survey of Theory and Evidence** [Lien](http://www.lse.ac.uk/fmg/assets/documents/papers/discussion-papers/DP767.pdf)
+Etude : **Executive Compensation: A Survey of Theory and Evidence** [Lien](http://www.lse.ac.uk/fmg/assets/documents/papers/discussion-papers/DP767.pdf)
 
-**Fixing the game** Roger L. Martin
+Livre : **Fixing the game** - Roger L. Martin
 
-**Le mensonge de la finance : Les mathématiques, le signal prix et la planète** Nicolas Bouleau
+Livre : **Le mensonge de la finance : Les mathématiques, le signal prix et la planète** - Nicolas Bouleau
 
