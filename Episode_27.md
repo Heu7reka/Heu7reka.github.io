@@ -46,7 +46,7 @@ On peut alors écrire l’équation suivante :
 
 Ou
 
-![Equation 02](./images/Equation_02.png "Equation 02")
+![Equation 02](./images/Equation_02v2.png "Equation 02")
 
 Un petit exemple s’impose : Si l’investisseur Z achète une action de l’entreprise A pour 20€ et qu’il considère que le risque qu’il encourt correspond à un rendement de 15% (il n’y a aucune formule ni méthode pour tomber sur ce chiffre de 15%, chaque investisseur est libre de le choisir comme il l’entend), alors Z s’attends à ce que le fait de posséder cette action lui permette de générer un rendement de 15% par an. Autrement dit, Z veux pouvoir gagner au moins : 20€ * 15% = 3€ d’ici la fin de l’année. Du point de vue de l’entreprise, ce rendement attendu par les actionnaires est un coût que l’on appelle : « coût des capitaux propres » ou « cost of equity ».
 
