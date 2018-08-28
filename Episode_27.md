@@ -20,7 +20,6 @@ Pire, afin de garder un contrôle maximal sur le cours de bourse via les fameuse
 
 ![L'objectif du dirigeant](./images/Objectif du PDG.png "L'objectif du dirigeant")
 
-![Complexité vs PIB/Hab en 2007](./images/Tableau_Complexité_vs_PIBhab.png "Complexité vs PIB/Hab en 2007")
 
 Sans compter que cet objectif est contraint par l’horizon d’investissement de l’actionnaire majoritaire. Si celui-ci veut empocher le pactole d’ici 2 ans, alors l’entreprise doit se plier à cette volonté sans tenir compte du sort des autres actionnaires, présents ou futurs. 
 
