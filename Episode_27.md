@@ -1,4 +1,4 @@
-# SPOILERS !!! Episode 27 - Le réel objectif des entreprises SPOILER !!!
+# SPOILERS !!! Episode 27 - Actionnaires VS Dirigeants : ce que veulent les entreprises SPOILER !!!
 
 ## Récap de l'épisode
 
