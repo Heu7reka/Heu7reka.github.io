@@ -68,3 +68,11 @@ Une autre façon de comprendre le problème c’est d’associer le rendement at
 
 Si la prise de valeur de l’action était justifiée par une augmentation réelle des résultats financiers, alors il n’y aurait pas de problème. En effet, de plus gros bénéfices permettraient à l’entreprise d’améliorer son équipement et de réaliser des investissements. Mais puisque le prix de l’action repose sur des anticipations de l’avenir qui en plus, ne sont pas nécessairement rationnelles (#MarchésNonEfficients), alors celui-ci peut se retrouver complètement décorrélé des résultats réels de l’entreprise. La seule manière pour les dirigeants de satisfaire les rendements irréalisables des actionnaires devient alors de faire augmenter le prix de l’action. Car sans financement supplémentaires, jamais l’entreprise ne pourra dégager des bénéfices suffisants. Ici encore, les dirigeants se retrouvent forcer de concentrer leur attention sur le jeu des marchés, le jeu des anticipations, plutôt que sur celui de la production réelle de richesse.
 
+## Sources :
+
+**Executive Compensation: A Survey of Theory and Evidence** [Lien](http://www.lse.ac.uk/fmg/assets/documents/papers/discussion-papers/DP767.pdf)
+
+**Fixing the game** Roger L. Martin
+
+**Le mensonge de la finance : Les mathématiques, le signal prix et la planète** Nicolas Bouleau
+
