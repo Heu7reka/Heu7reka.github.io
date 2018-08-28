@@ -33,4 +33,38 @@ Pour conclure, les entreprises sont des entités extrêmement importantes qui so
 
 Face à toutes ces contradictions, il est grand temps de repenser le véritable objectif des entreprises et de fournir des indicateurs clairs pour vérifier qu’ils sont atteints.
 
+## Le problème du « coût des capitaux propres » (« cost of equity ») ##
+
+L’entreprise A décide de se lancer en bourse. L’offre se fait à 20€ l’action pour une quantité totale de 1 million d’actions. L’entreprise A récupère donc un financement de : 20€ * 1 000 000 = 20 millions d’€.
+
+Du point de vue de l’investisseur qui se pose la question de savoir si l’achat des actions de l’entreprise A vaut la peine, la question essentielle est la suivante : quel est le rendement que j’espère retirer de mon investissement ? En effet, il existe des risques non négligeables : la valeur de l’action pourrait chuter, l’entreprise pourrait faire faillite. La perception du risque de la part de l’investisseur va déterminer le rendement qu’il va exiger de l’entreprise. Plus l’entreprise semble risquée, plus les actionnaires vont lui demander un rendement important. 
+
+On peut alors écrire l’équation suivante :
+
+
+![Equation 01](./images/Equation_01.png "Equation 01")
+
+Ou
+
+![Equation 02](./images/Equation_02.png "Equation 02")
+
+Un petit exemple s’impose : Si l’investisseur Z achète une action de l’entreprise A pour 20€ et qu’il considère que le risque qu’il encourt correspond à un rendement de 15% (il n’y a aucune formule ni méthode pour tomber sur ce chiffre de 15%, chaque investisseur est libre de le choisir comme il l’entend), alors Z s’attends à ce que le fait de posséder cette action lui permette de générer un rendement de 15% par an. Autrement dit, Z veux pouvoir gagner au moins : 20€ * 15% = 3€ d’ici la fin de l’année. Du point de vue de l’entreprise, ce rendement attendu par les actionnaires est un coût que l’on appelle : « coût des capitaux propres » ou « cost of equity ».
+
+Il y a deux manières de satisfaire les attentes des actionnaires. Soit le prix de l’action doit augmenter de 3€, soit l’entreprise doit verser un dividende de 3€ par action. Soit une combinaison des deux. Admettons que l’entreprise A verse un dividende de 1€ par action et que le prix de l’action soit passé à 22€. En reprenant l’équation de tout à l’heure on obtient :
+
+
+![Equation 03](./images/Equation_03.png "Equation 03")
+
+# Alors quel est le problème ? #
+
+Il faut bien garder en tête que l’entreprise A n’a été financée que à hauteur de 20€ par action au moment de son introduction en bourse. L’évolution du prix de l’action à partir de cette IPO (Inital Public Offering) n’a plus rien à voir avec le financement de l’entreprise. Autrement dit, si Z décide de vendre son action à Y pour 22€, il s’agit d’une transaction isolée entre Z et Y. Mais que ce passe-t-il si Y possède les mêmes attentes que Z ?
+Lui aussi, veut voir son investissement lui rapporter 15% soit : 22€ * 15% = 3.30€
+
+Mais puisque l’entreprise n’a été financée qu’à hauteur de 20€ par action, alors le rendement réel qu’elle doit fournir n’est pas de 15% mais bien de 16.5% (20€ * 16.5% = 3.30€) !
+
+Et le problème ne va faire qu’empirer. Quand Y va vendre son action à X pour mettons 30€, X va s’attendre à un rendement de 15% soit : 30€ * 15% = 4.50€. Donc de son point de vue, l’entreprise devra fournir un rendement de 22.5% (20€ * 22.5% = 4.50€).
+
+Une autre façon de comprendre le problème c’est d’associer le rendement attendu par les actionnaires et donc la production de richesse de l’entreprise, au financement effectivement perçu par cette dernière. En effet, si l’entreprise a été financée à hauteur de 20€, alors elle n’a pu s’équiper qu’à hauteur de 20€. Les machines qui sont à sa disposition pour créer de la richesse ont couté 20€. Ainsi, alors que les actionnaires demandent un rendement associé au prix actuel de l’action, disons 30€, l’entreprise ne dispose que d’un équipement dont la valeur est de 20€.
+
+Si la prise de valeur de l’action était justifiée par une augmentation réelle des résultats financiers, alors il n’y aurait pas de problème. En effet, de plus gros bénéfices permettraient à l’entreprise d’améliorer son équipement et de réaliser des investissements. Mais puisque le prix de l’action repose sur des anticipations de l’avenir qui en plus, ne sont pas nécessairement rationnelles (#MarchésNonEfficients), alors celui-ci peut se retrouver complètement décorrélé des résultats réels de l’entreprise. La seule manière pour les dirigeants de satisfaire les rendements irréalisables des actionnaires devient alors de faire augmenter le prix de l’action. Car sans financement supplémentaires, jamais l’entreprise ne pourra dégager des bénéfices suffisants. Ici encore, les dirigeants se retrouvent forcer de concentrer leur attention sur le jeu des marchés, le jeu des anticipations, plutôt que sur celui de la production réelle de richesse.
 
