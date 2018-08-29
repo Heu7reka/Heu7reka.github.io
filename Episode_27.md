@@ -1,4 +1,4 @@
-# SPOILERS !!! Episode 27 - Actionnaires VS Dirigeants : ce que veulent les entreprises SPOILER !!!
+# Episode 27 - Actionnaires VS Dirigeants : ce que veulent les entreprises
 
 ## Récap de l'épisode
 
