@@ -94,5 +94,7 @@ Malheureusement, les économistes sont majoritairement convaincus par leur méth
 
 
 **Source 1 :** La théorie de la répartition néoclassique [Lien](http://www.autisme-economie.org/article178.html)
+
 **Source 2 :** Fonction de production agrégée et idéologie [Lien](http://bernardguerrien.com/wp-content/uploads/2017/07/FoncProduction_et_Ideologie.pdf)
+
 **Source 3 :** Le lien entre le PIB et l'énergie [Vidéo](https://youtu.be/vW7WywnOxas)
