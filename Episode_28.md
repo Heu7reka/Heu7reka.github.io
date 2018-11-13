@@ -1,4 +1,4 @@
-# Episode 28 - Croissance & énergie : l'erreur des économistes ?
+# SPOILER ALERT !!! Episode 28 - Croissance & énergie : l'erreur des économistes ?
 
 ## Récap de l'épisode
 
@@ -89,3 +89,10 @@ Mais même sans cela, y a-t-il un quelconque sens à faire des prédictions tout
 
 
 Malheureusement, les économistes sont majoritairement convaincus par leur méthode et par leur modèle si bien que l’avertissement de certains économistes, physiciens et ingénieurs passe inaperçu. Certes, le progrès technique permettra peut-être de fabriquer des machines plus efficaces, càd qui consomment moins, mais il y a des contraintes techniques et géologiques à prendre en compte. Le progrès technique ne peut pas simplement se définir comme une variable qu’on peut ajuster à souhait pour faire fonctionner les formules ! Celui-ci est nécessairement contraint par les lois de la physique. Tout n’est pas possible. Bref, les modèles économiques ne peuvent pas se contenter de raisonnements mathématiques théoriques avec pour seule donnée des prix et des quantités. L’économie doit aussi prendre en compte les lois de la physique, les contraintes géologiques, climatiques et environnementales ce qui pour le moment est loin d’être le cas.
+
+## Principales sources : ##
+
+
+**Source 1 :** La théorie de la répartition néoclassique [Lien](http://www.autisme-economie.org/article178.html)
+**Source 2 :** Fonction de production agrégée et idéologie [Lien](http://bernardguerrien.com/wp-content/uploads/2017/07/FoncProduction_et_Ideologie.pdf)
+**Source 3 :** Le lien entre le PIB et l'énergie [Vidéo](https://youtu.be/vW7WywnOxas)
