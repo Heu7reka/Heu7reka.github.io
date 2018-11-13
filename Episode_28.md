@@ -1,4 +1,4 @@
-# Episode 28 : Croissance & énergie : l'erreur des économistes ?
+# Episode 28 - Croissance & énergie : l'erreur des économistes ?
 
 ## Récap de l'épisode
 
