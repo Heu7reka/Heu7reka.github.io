@@ -1,5 +1,9 @@
 # Episode 28 - Croissance & énergie : l'erreur des économistes ?
 
+## Erratum
+
+Ni 80000, ni 82333 comme je coyais pourtant l'avoir correctement corrigé dans la vidéo... La bonne rémunéaration des machines est de 83333€.
+
 ## Récap de l'épisode
 
 D’abord quelques constats : 80% de l’énergie que nous utilisons vient du charbon, du pétrole et du gaz qui tous, émettent du CO2 quand on les brûle, ce qui provoque un changement climatique que l’on voudrait éviter.
