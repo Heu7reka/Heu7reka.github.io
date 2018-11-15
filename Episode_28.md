@@ -2,7 +2,7 @@
 
 ## Erratum
 
-Ni 80000, ni 82333 comme je coyais pourtant l'avoir correctement corrigé dans la vidéo... La bonne rémunération des machines est de 83333€.
+Ni 80000, ni 82333 comme je croyais pourtant l'avoir correctement corrigé dans la vidéo... La bonne rémunération des machines est de 83333€.
 
 ## Récap de l'épisode
 
