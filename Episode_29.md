@@ -6,30 +6,30 @@ Commençons par quelques chiffres histoire de bien comprendre de quoi on parle. 
 
 ![énergie primaire - Monde - 2016](./images/Eps 29 Utilisation nrj primaire 2016.png "énergie primaire - Monde - 2016")
 
-**Source :** jancovici.com **What is energy, actually?** [Lien](https://jancovici.com/en/energy-transition/energy-and-us/what-is-energy-actually/)
+**Source : ** jancovici.com **What is energy, actually?** [Lien](https://jancovici.com/en/energy-transition/energy-and-us/what-is-energy-actually/)
 
 
 Toujours au niveau mondial, si on regarde les différents usages du pétrole on voit que la plus grande partie, 65%, sert au transport. Mais on a aussi 8% qui servent aux activités industrielles, essentiellement pour chauffer des matériaux ou pour produire de l’électricité. Et puis il y a 16%, la partie non-énergétique, qui correspond à la pétrochimie : plastiques divers, tissus synthétiques, emballage alimentaires, huiles de moteur, solvant, engrais, bitume etc. Enfin les 11% restants correspondent aux usages du fioul lourd. On s’en sert essentiellement comme système de chauffage pour les bâtiments et aussi comme carburant pour les gros navires de commerce ou pour les chars d’assaut.
 
 ![pétrole - Monde - 2014](./images/Eps 29 Utilisation pétrole 2014.png "pétrole - Monde - 2014")
 
-**Source :**Key World Energy Statistics 2016** [Lien](https://www.oecd-ilibrary.org/energy/key-world-energy-statistics-2016_key_energ_stat-2016-en)
+**Source :** Key World Energy Statistics 2016 [Lien](https://www.oecd-ilibrary.org/energy/key-world-energy-statistics-2016_key_energ_stat-2016-en)
 
 Les macro-économistes utilisent un modèle développé par Harold Hotelling en 1931 pour analyser le problème de l’épuisement des ressources non renouvelables comme le pétrole. D’après ce modèle, le prix du pétrole devrait croitre de manière exponentielle car celui-ci doit tenir compte d’une ressource toujours plus rare qui coute toujours plus cher à extraire et doit être multiplié par un taux d’intérêt toujours positif. Ainsi, la hausse du prix du pétrole est inévitable et les entreprises qui en dépendent vont naturellement et automatiquement se détourner de cette ressource. Plus le pétrole sera cher, moins les entreprises voudront l’utiliser et chercheront des alternatives pour rester compétitives. La conclusion n’est pas aussi nette en réalité mais en gros, les macro-économistes n’ont pas vraiment l’impression que la finitude de certaines ressources soit un problème. Le marché va transmettre l’information de cette finitude par le biais des prix… Les entreprises seront alors encouragées à innover, à utiliser les ressources de manière plus efficaces ou à leur trouver des substituts.
 
 ![Modèle d'Hotelling](./images/Eps 29 Modèle Hotelling.png "Modèle d'Hotelling")
 
-**Source :**Wikipedia : Rente d'Hotelling** [Lien](https://fr.wikipedia.org/wiki/Rente_d%27Hotelling)
+**Source :** Wikipedia : Rente d'Hotelling [Lien](https://fr.wikipedia.org/wiki/Rente_d%27Hotelling)
 
 Cependant, le modèle d’Hotelling ne fait pas l’unanimité. D’abord quand on regarde le prix en dollar constants du pétrole depuis 1860, force est de constater qu’on ne voit pas de croissance exponentielle qui traduirait d’une ressource toujours chère à extraire. 
 
 ![Historique du prix du pétrole](./images/Eps 29 Prix du pétrole.png "Historique du prix du pétrole")
 
-**Source :**BP Statistical Review 2018** [Lien](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
+**Source :** BP Statistical Review 2018 [Lien](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
 Alors d’où vient l’erreur ? Le raisonnement d’Hotelling suppose une augmentation exponentielle du prix du baril. Or d’après le modèle de Black & Scholes, les marchés financiers ne laisseront pas une telle tendance se matérialiser. Si les financiers pensaient que le scénario d’Hotelling était correct, alors le prix du pétrole serait déjà très élevé et on ne verrait de toute façon pas apparaître une belle tendance exponentielle. Cela vient du fait que si une  tendance, une régularité, permettant d’anticiper l’avenir se matérialisait, il serait possible de gagner de l’argent sans prendre de risque, au dépend d’un pigeon qui n’aurait pas repéré cette opportunité en or. Or, sur des marchés financiers toujours plus professionnels… où les financiers dépensent des milliards pour repérer les régularités encore inexploitées, on peut être sûr qu’une simple tendance exponentielle sur le prix du pétrole n’existe plus depuis longtemps.
 
-**Source :**Nicolas BOULEAU - Le mensonge de la fiance** [Lien](https://www.amazon.fr/mensonge-finance-math%C3%A9matiques-signal-prix-plan%C3%A8te/dp/2708245554)
+**Source :** Nicolas BOULEAU - Le mensonge de la fiance [Lien](https://www.amazon.fr/mensonge-finance-math%C3%A9matiques-signal-prix-plan%C3%A8te/dp/2708245554)
 
 Pourtant, le pétrole est bien une ressource de plus en plus rare, une ressource qui s’épuise. Nos modes de vie en dépendent et un jour ou l’autre, on atteindra un pic d’extraction. Il est également plus que probable de supposer que le progrès des méthodes d’extraction ne permettra pas de toujours l’obtention d’un pétrole peu coûteux. Les financiers sont au courant de tout ça et pourtant, le prix du pétrole n’est pas très élevé. Pourquoi ?
 
