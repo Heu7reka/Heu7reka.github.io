@@ -41,7 +41,7 @@ Tout ça pour dire que le prix du pétrole ne va pas augmenter petit à petit. L
 
 ## Remerciements
 
-Merci à Rodolphe Meyer ([le réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ)) pour sa remière relecture du script.
+Merci à Rodolphe Meyer ([le réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ)) pour sa première relecture du script.
 
 Merci également à [Adrien Nguyen](https://sites.google.com/site/anhhomepage/) pour ses explications précieuses et ses nombreux conseils de lecture.
 
