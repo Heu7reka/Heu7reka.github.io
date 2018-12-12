@@ -1,4 +1,4 @@
-# SPOILER LAERT !!! Episode 29 : Le prix du baril ne peut que grimper n'est-ce pas ?
+# Episode 29 : Le prix du baril ne peut que grimper n'est-ce pas ?
 
 ## Récap de l'épisode
 
@@ -27,7 +27,7 @@ Cependant, le modèle d’Hotelling ne fait pas l’unanimité. D’abord quand 
 
 **Source :** BP Statistical Review 2018 [Lien](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html)
 
-Alors d’où vient l’erreur ? Le raisonnement d’Hotelling suppose une augmentation exponentielle du prix du baril. Or d’après le modèle de Black & Scholes, les marchés financiers ne laisseront pas une telle tendance se matérialiser. Si les financiers pensaient que le scénario d’Hotelling était correct, alors le prix du pétrole serait déjà très élevé et on ne verrait de toute façon pas apparaître une belle tendance exponentielle. Cela vient du fait que si une  tendance, une régularité, permettant d’anticiper l’avenir se matérialisait, il serait possible de gagner de l’argent sans prendre de risque, au dépend d’un pigeon qui n’aurait pas repéré cette opportunité en or. Or, sur des marchés financiers toujours plus professionnels… où les financiers dépensent des milliards pour repérer les régularités encore inexploitées, on peut être sûr qu’une simple tendance exponentielle sur le prix du pétrole n’existe plus depuis longtemps.
+Alors d’où vient l’erreur ? Le raisonnement d’Hotelling suppose une augmentation exponentielle du prix du baril. Or d’après le modèle de Black & Scholes, les marchés financiers ne laisseront pas une telle tendance se matérialiser. Si les financiers pensaient que le scénario d’Hotelling était correct, alors le prix du pétrole serait déjà très élevé et on ne verrait de toute façon pas apparaître une belle tendance exponentielle. Cela vient du fait que si une  tendance, une régularité, permettant d’anticiper l’avenir se matérialisait, il serait possible de gagner de l’argent sans prendre de risque, au dépend d’un pigeon qui n’aurait pas repéré cette opportunité. Or, sur des marchés financiers toujours plus professionnels… où les financiers dépensent des milliards pour repérer les régularités encore inexploitées, on peut être sûr qu’une simple tendance exponentielle sur le prix du pétrole n’existe plus depuis longtemps.
 
 **Source :** Nicolas BOULEAU - Le mensonge de la fiance [Lien](https://www.amazon.fr/mensonge-finance-math%C3%A9matiques-signal-prix-plan%C3%A8te/dp/2708245554)
 
