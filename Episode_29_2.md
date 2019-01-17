@@ -15,7 +15,9 @@ Données macroéconomiques : [FRED](https://fred.stlouisfed.org/)
 
 [BP Stat review](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-Livre : Nicolas Bouleau - [Le mensonge de la finance](https://www.amazon.fr/mensonge-finance-math%C3%A9matiques-signal-prix-plan%C3%A8te/dp/2708245554)
+**Livre :** 
+
+Nicolas Bouleau - [Le mensonge de la finance](https://www.amazon.fr/mensonge-finance-math%C3%A9matiques-signal-prix-plan%C3%A8te/dp/2708245554)
 
 
 ## Les principaux graph
