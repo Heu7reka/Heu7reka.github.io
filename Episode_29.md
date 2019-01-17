@@ -1,4 +1,4 @@
-# Episode 29 : Le prix du baril ne peut que grimper n'est-ce pas ?
+# Episode 29-1 : Le prix du baril ne peut que grimper n'est-ce pas ?
 
 ## Récap de l'épisode
 
