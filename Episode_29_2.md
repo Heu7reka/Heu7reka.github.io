@@ -7,7 +7,7 @@ Données macroéconomiques : [FRED](https://fred.stlouisfed.org/)
 
 [Les différents prix du pétrole](https://oilprice.com/oil-price-charts#prices)
 
-Statistiques sur l'énergie
+**Statistiques sur l'énergie :**
 
 [Agence International de l'énergie](https://www.eia.gov/)
 
