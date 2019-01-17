@@ -5,6 +5,8 @@
 
 Données macroéconomiques : [FRED](https://fred.stlouisfed.org/)
 
+[Le prix du Brent](https://fred.stlouisfed.org/series/DCOILBRENTEU)
+
 [Les différents prix du pétrole](https://oilprice.com/oil-price-charts#prices)
 
 **Statistiques sur l'énergie :**
