@@ -38,6 +38,7 @@ Livre : Nicolas Bouleau - [Le mensonge de la finance](https://www.amazon.fr/mens
 ![Extraction de pétrole aux Etats-Unis](./images/Episode29_02_Extraction_USA.png "Extraction de pétrole aux Etats-Unis")
 
 **Source :** BP Stat review 2018 [Lien](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
 **Source :** EIA [Lien](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mcrfpus2&f=a)
 
 
