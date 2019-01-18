@@ -1,4 +1,4 @@
-# SPOILER ALERT!!! Episode 29-2 : Parier sur le pétrole : mission impossible.
+# Episode 29-2 : Parier sur le pétrole : mission impossible.
 
 
 ## Sources :
