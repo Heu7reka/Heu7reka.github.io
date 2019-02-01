@@ -1,5 +1,53 @@
 # SPOILER ALERT!!! Episode 24-10 : La crise de l'€ - Ordolibéralisme Allemand
 
+## Refaire mon graph sur le financement des entreprises non-financières par les marchés financiers.
+
+## Pourquoi ce graph ?
+
+L'idée est de savoir à quel point les marchés financiers financent l'économie réelle. On peut répondre à cette question de différentes manières. On pourrait comparer les flux sortants avec les flux entrants sur les marchés. Cela correspond aux émissions nettes d'actions (actions émises moins actions rachetées) et d'obligations (obligations émisent moins obligations remboursées) qu'il faut comparer à la collecte nette par les fonds d'investissements (placements moins retraits). Les données sur les fonds d'investissement étants très difficiles à trouver, j'ai pensé à autre chose.
+
+Il existe un indicateur appelé FBCF (formation brute de capital fixe) qui est la donnée comptable qui correspond au flux d'investissement des entreprises. On peut essayer de comparer le montant de ces investissements avec les émissions nettes d'obligations et d'actions. On peut même aller chercher les données d'endettement total des entreprises pour trouver les flux de dettes non-issue des marchés. On en déduit les flux d'investissements liés aux réinvestissements des bénéfices.
+
+[Lien](http://debt-economics.org/review-data.php)
+
+Les données : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
+
+1/ Base de données par thème
+
+2/ Economie et finances
+
+3/ Comptes natinaux (SEC 2010)
+
+4/ Ventilation princiale des aggrégats du PIB et de l'emploi (par branche et type d'actif)
+
+5/ Formation brute de capital fixe par AN_F6 types d'actifs
+
+Puis ne pas oublier de vérifier qu'on regarde bien les "Actifs fixes totales" et que les données sont en "Prix courants, millions d'euros"
+
+
+Ensuite il faut obtenir les flux d'endettement des entreprises non-financières. On trouve ces donnée sur le site de la Fred.
+
+Les données : [FRED -  Total Credit to Non-Financial Sector, Adjusted for Breaks, for Euro Area](https://fred.stlouisfed.org/series/QXMCAM770A)
+
+Les données obtenues sont un stock de dette. Il ne faut pas oublier de faire la soustraction d'une année sur l'autre pour avoir les flux.
+
+
+Puis il faut obtenir les flux nets d'émissions d'actions et d'obligations. Pour ces données, il faut aller voir du côté de la BCE.
+
+Obligations : [BCE -  Emissions nettes d'obligations en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1100&SEC_ITEM.41=F33000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691439&legendRef=reference)
+
+Actions : [BCE -  Emissions nettes d'actions en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691445&legendRef=reference)
+
+
+Maintenant : FCBF - Flux de dette bancaire - Actions - Obligations = Réinvestissement des profits.
+Donc : FBCF - (Flux de dette - Obligations) - Actions - Obligations = Réinvestissement des profits.
+
+
+Et normalement vous devriez avoir ça :
+
+![Financement de l’investissement des entreprises non financières en zone euro](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+
+
 ## Récap de l'épisode
 La zone euro et plus largement l’Union Européenne a été construite en accord avec une pensée économique, une idéologie économique, appelée ordo-libéralisme. Il s’agit d’une pensée née en Suisse dans les années 1930, qui a guidé le développement économique de l’Allemagne et aussi du Japon, et qui est aujourd’hui LE modèle économique de la zone euro.
 L’ordo-libéralisme est une pensée très peu flexible. Il s’agit d’un libéralisme fondé sur l’ordre, ordo, le respect des règles. Et il existe 4 règles fondamentales, je j’ai appelé piliers de l’ordo-libéralisme.
