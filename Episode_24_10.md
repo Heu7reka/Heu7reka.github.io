@@ -37,12 +37,17 @@ Actions : [BCE -  Emissions nettes d'actions en zone euro](https://sdw.ecb.europ
 
 
 Maintenant : FCBF - Flux de dette bancaire - Actions - Obligations = Réinvestissement des profits.
+
 Donc : FBCF - (Flux de dette - Obligations) - Actions - Obligations = Réinvestissement des profits.
 
 
 Et normalement vous devriez avoir ça :
 
 ![Financement de l’investissement des entreprises non financières en zone euro](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+
+## Autocritique :
+
+Il manque le financement par achat d'actions non cotées en bourse. Donc en gros tout le private equity. Il me semble que, à la vue de la faible contribution des marchés financiers, le private equity ne représenterait en fait pas grand chose. Mais évidemment, impossible d'être sûr à moins d'avoir les chiffres.
 
 
 ## Récap de l'épisode
