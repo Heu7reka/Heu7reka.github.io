@@ -1,4 +1,4 @@
-# Episode 24-9 : EVERYOOONE!!!
+# Episode 24-9 : La crise de l'€ - EVERYOOONE!!!
 
 ## Récap de l'épisode
 
