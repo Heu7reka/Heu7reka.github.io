@@ -8,7 +8,7 @@ L'idée est de savoir à quel point les marchés financiers financent l'économi
 
 Il existe un indicateur appelé FBCF (formation brute de capital fixe) qui est la donnée comptable qui correspond au flux d'investissement des entreprises. On peut essayer de comparer le montant de ces investissements avec les émissions nettes d'obligations et d'actions. On peut même aller chercher les données d'endettement total des entreprises pour trouver les flux de dettes non-issus des marchés. On en déduit les flux d'investissements liés aux réinvestissements des bénéfices.
 
-Les données : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
+FBCF : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
 
 1/ Base de données par thème
 
@@ -24,7 +24,7 @@ Puis ne pas oublier de vérifier qu'on regarde bien les "Actifs fixes totales" e
 
 Ensuite il faut obtenir les flux d'endettement des entreprises non-financières. On trouve ces donnée sur le site de la Fred.
 
-Les données : [FRED -  Total Credit to Non-Financial Sector, Adjusted for Breaks, for Euro Area](https://fred.stlouisfed.org/series/QXMCAM770A)
+Dette des entreprises : [FRED -  Total Credit to Non-Financial Sector, Adjusted for Breaks, for Euro Area](https://fred.stlouisfed.org/series/QXMCAM770A)
 
 Les données obtenues sont un stock de dette. Il ne faut pas oublier de faire la soustraction d'une année sur l'autre pour avoir les flux.
 
