@@ -8,7 +8,7 @@ L'idée est de savoir à quel point les marchés financiers financent l'économi
 
 Il existe un indicateur appelé FBCF (formation brute de capital fixe) qui est la donnée comptable qui correspond au flux d'investissement des entreprises. On peut essayer de comparer le montant de ces investissements avec les émissions nettes d'obligations et d'actions. On peut même aller chercher les données d'endettement total des entreprises pour trouver les flux de dettes non-issus des marchés. On en déduit les flux d'investissements liés aux réinvestissements des bénéfices.
 
-### FBCF : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
+## FBCF : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
 
 1/ Base de données par thème
 
@@ -24,16 +24,16 @@ Puis ne pas oublier de vérifier qu'on regarde bien les "Actifs fixes totales" e
 
 Ensuite il faut obtenir les flux d'endettement des entreprises non-financières. On trouve ces donnée sur le site de la Fred.
 
-Dette des entreprises : [FRED -  Total Credit to Non-Financial Sector, Adjusted for Breaks, for Euro Area](https://fred.stlouisfed.org/series/QXMCAM770A)
+## Dette des entreprises : [FRED -  Total Credit to Non-Financial Sector, Adjusted for Breaks, for Euro Area](https://fred.stlouisfed.org/series/QXMCAM770A)
 
 Les données obtenues sont un stock de dette. Il ne faut pas oublier de faire la soustraction d'une année sur l'autre pour avoir les flux.
 
 
 Puis il faut obtenir les flux nets d'émissions d'actions et d'obligations. Pour ces données, il faut aller voir du côté de la BCE.
 
-Obligations : [BCE -  Emissions nettes d'obligations en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1100&SEC_ITEM.41=F33000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691439&legendRef=reference)
+## Obligations : [BCE -  Emissions nettes d'obligations en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1100&SEC_ITEM.41=F33000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691439&legendRef=reference)
 
-Actions : [BCE -  Emissions nettes d'actions en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691445&legendRef=reference)
+## Actions : [BCE -  Emissions nettes d'actions en zone euro](https://sdw.ecb.europa.eu/browseTable.do?df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=SEC&showHide=&REF_AREA.41=I8&SEC_ISSUING_SECTOR.41=1000&CURRENCY_TRANS.41=Z01&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691445&legendRef=reference)
 
 
 Maintenant : FCBF - Flux de dette bancaire - Actions - Obligations = Réinvestissement des profits.
