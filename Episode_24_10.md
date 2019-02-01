@@ -1,4 +1,4 @@
-# Episode 24-10 : La crise de l'€ - Ordolibéralisme Allemand
+# SPOILER ALERT!!! Episode 24-10 : La crise de l'€ - Ordolibéralisme Allemand
 
 ## Récap de l'épisode
 La zone euro et plus largement l’Union Européenne a été construite en accord avec une pensée économique, une idéologie économique, appelée ordo-libéralisme. Il s’agit d’une pensée née en Suisse dans les années 1930, qui a guidé le développement économique de l’Allemagne et aussi du Japon, et qui est aujourd’hui LE modèle économique de la zone euro.
