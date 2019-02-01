@@ -6,7 +6,7 @@
 
 L'idée est de savoir à quel point les marchés financiers financent l'économie réelle. On peut répondre à cette question de différentes manières. On pourrait comparer les flux sortants avec les flux entrants sur les marchés. Cela correspond aux émissions nettes d'actions (actions émises moins actions rachetées) et d'obligations (obligations émisent moins obligations remboursées) qu'il faut comparer à la collecte nette par les fonds d'investissements (placements moins retraits). Les données sur les fonds d'investissement étants très difficiles à trouver, j'ai pensé à autre chose.
 
-Il existe un indicateur appelé FBCF (formation brute de capital fixe) qui est la donnée comptable qui correspond au flux d'investissement des entreprises. On peut essayer de comparer le montant de ces investissements avec les émissions nettes d'obligations et d'actions. On peut même aller chercher les données d'endettement total des entreprises pour trouver les flux de dettes non-issue des marchés. On en déduit les flux d'investissements liés aux réinvestissements des bénéfices.
+Il existe un indicateur appelé FBCF (formation brute de capital fixe) qui est la donnée comptable qui correspond au flux d'investissement des entreprises. On peut essayer de comparer le montant de ces investissements avec les émissions nettes d'obligations et d'actions. On peut même aller chercher les données d'endettement total des entreprises pour trouver les flux de dettes non-issus des marchés. On en déduit les flux d'investissements liés aux réinvestissements des bénéfices.
 
 Les données : [EUROSTAT](https://ec.europa.eu/eurostat/data/database)
 
