@@ -50,6 +50,27 @@ Et normalement vous devriez avoir ça :
 Il manque le financement par achat d'actions non cotées en bourse. Donc en gros tout le private equity. Il me semble que, à la vue de la faible contribution des marchés financiers, le private equity ne représenterait en fait pas grand chose. Mais évidemment, impossible d'être sûr à moins d'avoir les chiffres.
 
 
+## Les principaux Graphiques et schémas
+
+![Les piliers de l'ordolibéralisme dans un cadre théorique](./images/Eps24_10_Ordolibéralisme.png "Les piliers de l'ordolibéralisme dans un cadre théorique")
+
+![Les piliers de l'ordolibéralisme dans un cadre réel](./images/Eps24_10_Ordolibéralisme_Corrigé.png "Les piliers de l'ordolibéralisme dans un cadre réel")
+
+![Schéma de fonctionnement économique et financier du capitalisme](./images/Eps24_10_ECONOMIE.png "Schéma de fonctionnement économique et financier du capitalisme")
+
+![Dépenses d'ordre social en 2016 par les gouvernements européens](./images/Eps24_10_Depense_sociale.png "Dépenses d'ordre social en 2016 par les gouvernements européens")
+
+Source 1 : **Dépenses de protection sociale par habitant** [Lien](https://ec.europa.eu/eurostat/data/database)
+
+1/ Population et conditions sociales
+
+2/ Protection sociale
+
+3/ Dépenses de protection sociale (EUR par habitant (aux prix constants de 2010)
+
+Source 2 : **Parité de pouvoir d'achat** [Lien](https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm)
+
+
 ## Récap de l'épisode
 La zone euro et plus largement l’Union Européenne a été construite en accord avec une pensée économique, une idéologie économique, appelée ordo-libéralisme. Il s’agit d’une pensée née en Suisse dans les années 1930, qui a guidé le développement économique de l’Allemagne et aussi du Japon, et qui est aujourd’hui LE modèle économique de la zone euro.
 L’ordo-libéralisme est une pensée très peu flexible. Il s’agit d’un libéralisme fondé sur l’ordre, ordo, le respect des règles. Et il existe 4 règles fondamentales, je j’ai appelé piliers de l’ordo-libéralisme.
@@ -65,3 +86,6 @@ Cela-dit, ce modèle a de nombreuses failles. D’abord, il fait des hypothèses
 Mais plus que de simples hypothèses non vérifiées, voire non vérifiables, l‘ordo-libéralisme fait aussi de véritables erreurs : l’inflation est un phénomène complexe qui ne vient pas QUE de la planche à billets. Celle-ci n’est pas sous le contrôle de la banque centrale, ce sont majoritairement les banques privées qui la manipule. L’épargne n’est pas redistribuer par les banques, seulement les marchés financiers s’en charger. Et encore, leur rôle dans le financement des entreprises est faible. Et de toute façon les banques privées peuvent créer de la monnaie. Ainsi, encourager les ménages à épargner sans vérifier que l’économie réelle a effectivement besoin de financement, c’est simplement encourager la spéculation. D’autant plus que l’économie a aussi besoin de consommation. La surproduction, la balance commerciale positive, est une situation déséquilibrée, pas plus souhaitable que la situation inverse, et surtout non généralisable.
 
 Finalement, même si dans les traités qui en définissent le cadre, la zone euro a su conserver une certaine flexibilité face à ces valeurs ordo-libérale, par exemple le déficit public est autorisé à hauteur de 3% du PIB, il n’empêche que cette pensée économique limite les marges de manœuvre des états qui en sont membres. Face à la crise des subprimes, si la responsabilité de la structure des marchés financiers et de celui de l’immobilier n’a réellement été remise en question par personne, tout le monde a pu au moins profiter des théories de relance gouvernementale à base d’endettement et de planche à billets imaginées par Keynes… Tout le monde, sauf la zone euro qui s’est concentrée sur le respect des règles ordolibérales et donc sur des réformes à base d’austérité, de privatisation et de flexibilisation du marché de l’emploi. Des réformes souvent dévastatrices, notamment dans le cas de la Grèce, peut-être parfois justifiées, mais qui ne proposent absolument aucune solution face à la véritable source du problème qui demeure monétaire. Conclusion : la zone euro est la seule à avoir connue la crise de l’euro parce qu’elle est la seule à avoir mis en place des règles ordo-libérales aussi strictes. La crise de l’euro c’est en grande partie une crise de l’ordo-libéralisme.
+
+## Sources
+Mark BLYTH [Austerity: The History of a Dangerous Idea](https://www.amazon.co.uk/Austerity-History-Dangerous-Mark-Blyth/dp/019982830X)
