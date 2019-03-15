@@ -1,6 +1,25 @@
-SPOILER ALERT!!! Episode 29-3 : La fin de l’âge du pétrole ?
+# SPOILER ALERT!!! Episode 29-3 : La fin de l’âge du pétrole ?
 
-Allez c’est le moment de résumer tout ça. Tant que le pétrole reste une source d’énergie, il faut se poser la question du rendement. Combien de barils de pétrole servent à faire tourner la filière pétrolière comparé à combien de baril peuvent être utilisés pour faire fonctionner nos sociétés modernes. On parle de taux de retour énergétique ou TRE. C’est une notion cruciale, car une société complexe et diversifiée comme la nôtre ne peut se maintenir que parce que la population trouve le temps et dispose des infrastructures nécessaires pour s’intéresser à autre chose qu’à assurer le maintien de l’apport énergétique. Si la grande majorité de la population devait travailler dans les champs ou dans des mines de charbon, nous ne pourrions pas maintenir un mode de vie nécessitant une forte spécialisation des individus dans des domaines très divers.
+
+## Les principaux graph
+
+![Evolution du TRE de la filière 'pétrole et gaz'](./images/Evolution_du_TRE_du_Petrole.png "Evolution du TRE de la filière 'pétrole et gaz'")
+
+**Source :** Gagnon, N., Hall, C., Brinker, L., 2009. A preliminary investigation of the energy return on energy investment for global oil and gas production. [Lien](https://www.mdpi.com/1996-1073/2/3/490)
+
+![Offre mondiale de pétrole liquide](./images/Evolution_Offre_de_petrole.png "Offre mondiale de pétrole liquide")
+
+**Source :** [www.postcarbon.org](https://www.postcarbon.org/new-u-s-record-level-oil-production-peak-oil-theory-disproven-not/)
+
+![TRE des combustibles thermiques](./images/TRE_combustibles_Thermiques.png "TRE des combustibles thermiques")
+
+**Source :** EROI of different fuels and the implications for society - Charles A.S. Hall, Jessica G. Lambert, Stephen B. Balogh [Lien](https://www.academia.edu/18452208/EROI_of_different_fuels_and_the_implications_for_society)
+
+
+## Récap de l'épisode
+
+
+Tant que le pétrole reste une source d’énergie, il faut se poser la question du rendement. Combien de barils de pétrole servent à faire tourner la filière pétrolière comparé à combien de baril peuvent être utilisés pour faire fonctionner nos sociétés modernes. On parle de taux de retour énergétique ou TRE. C’est une notion cruciale car une société complexe et diversifiée comme la nôtre ne peut se maintenir que parce que la population trouve le temps et dispose des infrastructures nécessaires pour s’intéresser à autre chose qu’à assurer le maintien de l’apport énergétique. Si la grande majorité de la population devait travailler dans les champs ou dans des mines de charbon, nous ne pourrions pas maintenir un mode de vie nécessitant une forte spécialisation des individus dans des domaines très divers.
 
 
 La question est donc centrale : quel est le TRE du pétrole et comment celui-ci va-t-il évoluer ?
