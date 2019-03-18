@@ -1,4 +1,4 @@
-# SPOILER ALERT!!! Episode 29-3 : La fin de l’âge du pétrole ?
+# Episode 29-3 : La fin de l’âge du pétrole ?
 
 
 ## Les principaux graph
