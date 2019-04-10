@@ -1,4 +1,24 @@
-C’est donc le moment de résumer un peu tout ce qu’on vient de dire. Premièrement parce que les banques commerciales créent la monnaie par l’intermédiaire des prêts qu’elles octroient aux ménages et aux entreprises, la quantité de monnaie scripturale dans une zone monétaire correspond à la quantité de dette bancaire. Si cette zone est un pays, alors sa monnaie ne peut jamais le quitter même si ce dernier est en situation de déficit commercial. Cela est dû au fait que la monnaie n’a pas cours ailleurs que dans ce pays. D’ailleurs, si jamais il y a un déficit commercial avec un pays dont le niveau de développement est similaire, alors celui-ci ne devrait pas durer. La raison en est simple : les entreprises du pays en excédent vont régulièrement acquérir et vendre la monnaie du pays en déficit, provoquant ainsi la perte de valeur de cette dernière et donc le renforcement de la compétitivité du pays en déficit à l’export. Ainsi, le rapport d’excédent commercial entre les deux pays devrait s’inverser.
+# SPOILER ALERT !!! Episode 30-1 : Le vrai faux problème TARGET2
+
+## Les principaux Graphiques et schémas
+
+![Evolution des balances T2](./images/TARGET2.png "Evolution des balances T2")
+
+Source : [Banque Centrale Européenne](http://sdw.ecb.europa.eu/browse.do?node=9691112)
+
+![Récap T2](./images/TARGET2_Historique.png "Récap T2")
+
+Source : [Banque Centrale Européenne](http://sdw.ecb.europa.eu/browse.do?node=9691112)
+
+![Montants engagés par les banques centrales nationales européennes dans le cadre du QE](./images/QE_Montant_Par_BC.png "Montants engagés par les banques centrales nationales européennes dans le cadre du QE")
+
+Source : [Banque Centrale Européenne](https://www.ecb.europa.eu/mopo/implement/omt/html/index.en.html#pspp)
+
+## Récap de l'épisode
+
+Premièrement parce que les banques commerciales créent la monnaie par l’intermédiaire des prêts qu’elles octroient aux ménages et aux entreprises, la quantité de monnaie scripturale dans une zone monétaire correspond à la quantité de dette bancaire. Si cette zone est un pays, alors sa monnaie ne peut jamais le quitter même si ce dernier est en situation de déficit commercial. Cela est dû au fait que la monnaie n’a pas cours ailleurs que dans ce pays.
+
+D’ailleurs, si jamais il y a un déficit commercial avec un pays dont le niveau de développement est similaire, alors celui-ci ne devrait pas durer. La raison en est simple : les entreprises du pays en excédent vont régulièrement acquérir et vendre la monnaie du pays en déficit, provoquant ainsi la perte de valeur de cette dernière et donc le renforcement de la compétitivité du pays en déficit à l’export. Ainsi, le rapport d’excédent commercial entre les deux pays devrait s’inverser.
 
 Cela dit, au sein d’une zone monétaire, il n’est pas rare que de la monnaie créée dans une région pauvre soit transférée dans une autre région plus riche. Le déséquilibre « dette / quantité de monnaie » qui en résulte favorise le développement économique de la région qui a le plus de monnaie et au contraire ralenti le développement de celle qui en a le moins. Pour rééquilibrer la donne, les états ont à leurs dispositions différents impôts, taxes et transferts. Le problème, c’est que ce genre de déséquilibre ne peut pas être adressé par le très faible budget européen. Et de toute manière, l’idéologie ordolibérale, dans le cadre de la répartition de la monnaie, a tendance à préférer s’en remettre à une libre concurrence stricte, sans aucune intervention étatique, ainsi qu’à une libre circulation des capitaux. Les déséquilibres des balances T2 montrent à quel point le marché ne remplit pas correctement cette tâche de répartition de la monnaie à l’heure actuelle. En effet, les euros créés dans le SUD de la zone s’accumulent dans le NORD sans être réinvestis dans le SUD.
 
