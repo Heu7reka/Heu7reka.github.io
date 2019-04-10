@@ -47,7 +47,9 @@ Et normalement vous devriez avoir ça :
 
 ## Autocritique :
 
-Il manque le financement par achat d'actions non cotées en bourse. Donc en gros tout le private equity. Il me semble que, à la vue de la faible contribution des marchés financiers, le private equity ne représenterait en fait pas grand chose. Mais évidemment, impossible d'être sûr à moins d'avoir les chiffres.
+Il manque le financement par achat d'actions non cotées en bourse. Cela correspond à l'activité de private equity. Il me semble que, à la vue de la faible contribution des marchés financiers, le private equity ne représente de toute manière pas grand chose. Mais évidemment, impossible d'être sûr à moins d'avoir les chiffres.
+
+Au cours du débat organisé par [Accropolis](https://www.twitch.tv/accropolis) avec le Secrétaire d’État auprès du ministre de l’Action et des Comptes publics, Monsieur Olivier Dussot, celui a justifié la suppression de l'ISF par des investissements essentiellement réalisés par le biais du private equity. Ainsi, l'épargne supplémentaire permise par la suppression de cet impôt, irait majoritairement s'investir, non pas sur les marchés financiers, mais directement dans les entreprises par le biais d'achat d'actions. Le problème c'est que les données sur ce marché primaire privé sont introuvables à ma connaissance.
 
 
 ## Les principaux Graphiques et schémas
