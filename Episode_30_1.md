@@ -35,3 +35,13 @@ De 2008 à 2012, fuite des capitaux investis dans les pays du SUD. On pense à u
 
 En effet, parce que cette mesure suppose une création de monnaie centrale depuis les différents pays membres qui sert ensuite à acheter des produits financiers détenus dans les états au sein desquels sont immatriculés les principales entreprises financières de la zone euro, on aboutit à augmentation des balances TARGET qui ne fait que signaler que l’Allemagne, le Luxembourg, la Finlande et la hollande sont les grands centres financiers européens.
 Et d’ailleurs, le fait que les balances T2 n’aient que augmenté et pas diminué pendant le QE ne peut signifier que deux choses : soit la monnaie créée partout s’investit massivement dans les économies réelles des centres financiers européens, soit cette monnaie sert principalement à la spéculation financière.
+
+## Sources
+
+Ulrich Bindseil, Philipp Johann König, [The economics of TARGET2 balances](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2011-035.pdf)
+
+Paul DE GRAUWE, Yuemei JI, Corrado MACCHIARELLI, [TARGET (im)balances at record level: Should we worry?](http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/607365/IPOL_IDA(2017)607365_EN.pdf)
+
+
+Karl Wehlan, [Should we be concerned about TARGET balances?](http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/607365/IPOL_IDA(2017)607365_EN.pdf)
+
