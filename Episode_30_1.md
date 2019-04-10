@@ -43,5 +43,5 @@ Ulrich Bindseil, Philipp Johann König, [The economics of TARGET2 balances](http
 Paul DE GRAUWE, Yuemei JI, Corrado MACCHIARELLI, [TARGET (im)balances at record level: Should we worry?](http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/607365/IPOL_IDA(2017)607365_EN.pdf)
 
 
-Karl Wehlan, [Should we be concerned about TARGET balances?](http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/607365/IPOL_IDA(2017)607365_EN.pdf)
+Karl Wehlan, [Should we be concerned about TARGET balances?](http://www.europarl.europa.eu/RegData/etudes/IDAN/2017/607366/IPOL_IDA(2017)607366_EN.pdf)
 
