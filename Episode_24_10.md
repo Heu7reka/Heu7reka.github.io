@@ -1,4 +1,4 @@
-# SPOILER ALERT!!! Episode 24-10 : La crise de l'€ part 10 - Ordolibéralisme Allemand
+# Episode 24-10 : La crise de l'€ part 10 - Ordolibéralisme Allemand
 
 ## Refaire mon graph sur le financement des entreprises non-financières par les marchés financiers.
 
