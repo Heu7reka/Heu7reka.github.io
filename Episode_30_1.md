@@ -1,4 +1,4 @@
-# SPOILER ALERT !!! Episode 30-1 : Le vrai faux problème TARGET2
+# Episode 30-1 : Le vrai faux problème TARGET2
 
 ## Les principaux Graphiques et schémas
 
