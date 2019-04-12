@@ -1,4 +1,4 @@
-# SPOILER ALERT !!! Episode 30-2 : Résoudre TARGET2
+# Episode 30-2 : Résoudre TARGET2
 
 ## Récap de l'épisode
 
