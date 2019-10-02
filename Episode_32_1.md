@@ -1,7 +1,19 @@
-# Episode 24-10 : La crise de l'€ part 10 - Ordolibéralisme Allemand
+# Episode 32-01 : Le chômage pour les nuls (Comprendre la théorie dominante)
 
-## Refaire mon graph sur le financement des entreprises non-financières par les marchés financiers.
+## Graphiques et schémas
 
-## Pourquoi ce graph ?
 
-L'idée est de savoir à quel point les marchés financiers financent l'économie réelle. On peut répondre à cette question de différentes manières. On pourrait comparer les flux sortants avec les flux entrants sur les marchés. Cela correspond aux émissions nettes d'actions (actions émises moins actions rachetées) et d'obligations (obligations émisent moins obligations remboursées) qu'il faut comparer à la collecte nette par les fonds d'investissements (placements moins retraits). Les données sur les fonds d'investissement étants très difficiles à trouver, j'ai pensé à autre chose.
+![Productivité décroissante des travailleurs](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+
+
+![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+
+
+![Explication du chômage](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+
+## Sources
+
+Laurent CORDONNIER - [Pas de pitié pour les gueux : sur les théories économiques du chômage](https://www.amazon.com/piti%C3%A9-pour-gueux-Laurent-Cordonnier/dp/2912107113)
+Marc LAVOIE - [Post keynesian economics: New foundations](https://www.amazon.com/Post-Keynesian-Economics-Foundations-Marc-Lavoie/dp/184720483X/ref=sr_1_1?keywords=marc+lavoie+post+keynesian&qid=1570053118&s=books&sr=1-1)
+
+
