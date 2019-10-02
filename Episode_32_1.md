@@ -3,7 +3,7 @@
 ## Graphiques et schémas
 
 
-![Productivité décroissante des travailleurs](./images/Eps32_01_Productivite_des_travailleurs.png "Financement de l’investissement des entreprises non financières en zone euro")
+![Productivité décroissante des travailleurs](./images/Eps32_01_Productivite_des_travailleurs.png "Productivité décroissante des travailleurs")
 
 
 ![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Eps32_01_UtiliteTpsLibre.png "Arbitrage entre 'utilité du temps libre' et 'utilité retirée du salaire'")
