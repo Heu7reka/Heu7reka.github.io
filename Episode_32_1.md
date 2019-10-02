@@ -3,13 +3,14 @@
 ## Graphiques et schémas
 
 
-![Productivité décroissante des travailleurs](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+![Productivité décroissante des travailleurs](./images/Eps32_01_Productivite_des_travailleurs.png "Financement de l’investissement des entreprises non financières en zone euro")
 
 
-![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Eps32_01_UtiliteTpsLibre.png "Arbitrage entre 'utilité du temps libre' et 'utilité retirée du salaire'")
 
 
-![Explication du chômage](./images/Financement_par_les_marches_financiers.png "Financement de l’investissement des entreprises non financières en zone euro")
+![Explication du chômage](./images/Eps32_01_Chomage.png "Explication du chômage")
+
 
 ## Sources
 
