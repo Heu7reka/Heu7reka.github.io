@@ -4,7 +4,7 @@
 
 1/ La productivité des travailleurs est strictement décroissante. Cela s'expliquerait par le capital qui, de par sa quantité limitée, présente une contrainte structurante dont les entreprises doivent tenir compte avant d'embaucher des travailleurs. Un ouvrier pour une brouette, la productivité est forte. Deux ouvriers pour la même brouette, la productivité diminue. La logique est pertinente si on part du principe que le nombre de brouettes est connu avant d'embaucher les ouvriers ce qui n'a pas vraiment de sens. Les entreprises recrutent les ouvriers d'abord (en fonction de la production qu'elles visent) puis s'arrangent dans un second temps pour fournir une brouette à tout le monde (quitte à en faire produire si nécessaire). Bref, s'il y a bien des formes de capital qui sont présentes en quantités limitées (terres exploitables, ressources minières), certaines autres formes de capital (brouettes, stylos, ordinateurs, voitures, avions...) représentent des variables dont les quantités ne sont pas connues à l'avance.
 
-![Productivité décroissante des travailleurs](./images/Eps32_01_Productivite_des_travailleurs.png "Productivité décroissante des travailleurs")
+![Productivité décroissante des travailleurs](Heu7reka.github.io/images/Eps32_01_Productivite_des_travailleurs.png "Productivité décroissante des travailleurs")
 
 
 <img src="Heu7reka.github.io/images/Eps32_01_Productivite_des_travailleurs.png" width="800"/>
