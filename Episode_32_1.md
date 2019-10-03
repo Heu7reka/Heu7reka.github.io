@@ -10,6 +10,7 @@
 
 ![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Eps32_01_UtiliteTpsLibre.png "Arbitrage entre 'utilité du temps libre' et 'utilité retirée du salaire'")
 
+3/ Parce que les hypothèses de départ font que la courbe de l'offre pointe vers le haut et celle de la demande vers le bas, il en résulte que le chômage involontaire ne peut apparaître QUE quand l'offre de travail est supérieure à la demande. Autrement dit, le chômage est la résultante de salaires trop élevés.
 
 ![Explication du chômage](./images/Eps32_01_Chomage.png "Explication du chômage")
 
