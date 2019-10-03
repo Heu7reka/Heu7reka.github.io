@@ -6,7 +6,7 @@ Commençons par quelques chiffres histoire de bien comprendre de quoi on parle. 
 
 ![énergie primaire - Monde - 2016](./images/Eps 29 Utilisation nrj primaire 2016.png "énergie primaire - Monde - 2016")
 
-**Source : ** jancovici.com **What is energy, actually?** [Lien](https://jancovici.com/en/energy-transition/energy-and-us/what-is-energy-actually/)
+**Source :** jancovici.com **What is energy, actually?** [Lien](https://jancovici.com/en/energy-transition/energy-and-us/what-is-energy-actually/)
 
 
 Toujours au niveau mondial, si on regarde les différents usages du pétrole on voit que la plus grande partie, 65%, sert au transport. Mais on a aussi 8% qui servent aux activités industrielles, essentiellement pour chauffer des matériaux ou pour produire de l’électricité. Et puis il y a 16%, la partie non-énergétique, qui correspond à la pétrochimie : plastiques divers, tissus synthétiques, emballage alimentaires, huiles de moteur, solvant, engrais, bitume etc. Enfin les 11% restants correspondent aux usages du fioul lourd. On s’en sert essentiellement comme système de chauffage pour les bâtiments et aussi comme carburant pour les gros navires de commerce ou pour les chars d’assaut.
