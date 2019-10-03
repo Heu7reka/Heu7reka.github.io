@@ -6,9 +6,6 @@
 
 ![Productivité décroissante des travailleurs](Heu7reka.github.io/images/Eps32_01_Productivite_des_travailleurs.png "Productivité décroissante des travailleurs")
 
-
-<img src="Heu7reka.github.io/images/Eps32_01_Productivite_des_travailleurs.png" width="800"/>
-
 2/ Les travailleurs abandonnent du temps libre pour travailler. Comme il n’y a que 24h par jours et qu’il faut bien trouver le temps de dormir, de manger et de profiter de certains loisirs, plus on demande aux travailleurs de travailler longtemps, plus la perspective de n’avoir que très peu de temps libre rend l’abandon de chaque heure supplémentaire très couteuse. Quand l’abandon de l’heure supplémentaire de temps libre coûte plus d’utilité que n’en rapporte la consommation issue du salaire reçu, le travailleur décide volontairement d’arrêter de travailler. La logique est de considérer que le travailleur n’a aucune contrainte physique et sociale qui l’obligerait à trouver un emploi. Pas besoin de revenu pour vivre, pas besoin de travailler pour s’intégrer etc.
 
 ![Arbitrage entre "utilité du temps libre" et "utilité retirée du salaire"](./images/Eps32_01_UtiliteTpsLibre.png "Arbitrage entre 'utilité du temps libre' et 'utilité retirée du salaire'")
