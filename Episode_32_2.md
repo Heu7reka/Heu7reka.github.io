@@ -38,7 +38,7 @@ Et enfin celle permise par le salaire, qui dépend du nombre de travailleurs emp
 
 Ainsi, s'il est vrai que la production des entreprises, l'offre, tend à s'ajuster sur la demande parce que les entreprises ne veulent produire ni plus ni moins que ce qu'elles réussiront à vendre, c'est uniquement la hausse de la demande qui peut provoquer la hausse de l'offre. Les carnets de commande doivent être plein à craquer pour déclencher : embauche de travailleurs et investissements. Ainsi, dans les modèles post-keynésiens, résoudre le problème du chômage passe par l'augmentation des différents paramètres qui forment la demande. 
 
-![La Demande drive l'Offre](./images/Eps32_02_VisionEthero.png "La Demande drive l'Offre")
+![La Demande drive l'Offre](./images/Eps32_02_VisionEthero2.png "La Demande drive l'Offre")
 
 
 ## Sources
