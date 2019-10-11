@@ -1,8 +1,8 @@
 # Episode 32-02 : Le chômage pour les nuls - Faut-il tenir compte de la demande ?
 
-## La demande selon l'orthodoxie
-
 La question posée par l'épisode est la suivante : pourquoi les modèles de l'orthodoxie ne tiennent-ils pas compte de la demande ? Pourquoi faut-il toujours plutôt mener une politique de l'offre plutôt que de la demande ?
+
+## La demande selon l'orthodoxie
 
 Le raisonnement tenu par les orthodoxes aboutit à la conclusion que l'offre (la production) provoque toujours l'apparition d'une demande (consommation) suffisante pour écouler l'ensemble des biens et des services produits. Cette conclusion, que l'on appelle la loi de Say repose sur deux hypothèses :
 
