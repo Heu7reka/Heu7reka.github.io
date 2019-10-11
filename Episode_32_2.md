@@ -31,9 +31,13 @@ Donc : Offre = Demande
 Dans les modèles monétaires utilisés par les postkeynésiens, la loi de Say n’a pas de raison d’être systématiquement vérifiée. Selon eux, la production des entreprises est avant tout déterminée par la demande car les entreprises ajustent leur production en fonction du remplissage du carnet de commande. 
 
 Or cette demande dépend de plusieurs variables :
+
 Les revenus des actionnaires issus des bénéfices de l'année précédente
+
 Les dépenses de consommation ou d'investissement issus de la création monétaire
+
 Celles issues de l'utilisation de l'épargne.
+
 Et enfin celle permise par le salaire, qui dépend du nombre de travailleurs employés et du niveau des salaires.
 
 Ainsi, s'il est vrai que la production des entreprises, l'offre, tend à s'ajuster sur la demande parce que les entreprises ne veulent produire ni plus ni moins que ce qu'elles réussiront à vendre, c'est uniquement la hausse de la demande qui peut provoquer la hausse de l'offre. Les carnets de commande doivent être plein à craquer pour déclencher : embauche de travailleurs et investissements. Ainsi, dans les modèles post-keynésiens, résoudre le problème du chômage passe par l'augmentation des différents paramètres qui forment la demande. 
