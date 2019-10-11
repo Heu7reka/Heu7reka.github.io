@@ -1,4 +1,4 @@
-# Episode 32-01 : Le chômage pour les nuls (Comprendre la théorie dominante)
+# Episode 32-01 : Le chômage pour les nuls - Comprendre la théorie dominante
 
 ## Graphiques et schémas
 
