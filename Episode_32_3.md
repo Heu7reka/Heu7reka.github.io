@@ -53,6 +53,8 @@ A l’inverse, plus la balance commerciale d’un pays est déficitaire, càd pl
 
 Pour finir, la liberté des consommateurs qui peuvent acheter sans surcoûts des produits fabriqués dans des conditions très éloignées des critères nationaux, ainsi que la liberté des entreprises de délocaliser la production comme bon leurs semble, viennent considérablement complexifier les choses. En effet, une hausse des salaires et une hausse du déficit public pourrait n’avoir aucun effet sur le chômage si les entreprises décidaient de délocaliser ou si les consommateurs ne cherchaient pas en priorité à consommer ce qui est produit localement. La solution pourrait être alors de mettre en place des tarifs douaniers pour encourager la production et la consommation nationale des pays qui se soucient réellement de résoudre le problème du chômage tout en maintenant la juste rémunération des travailleurs. Le problème, c’est que cela suppose de réaliser un arbitrage entre les pays dans lesquels on veut encourager la production qui ne verraient pas leurs exportations taxées par des tarifs douaniers, et les autres que l’on chercherait, via des tarifs douaniers, à contraindre de mieux traiter leurs travailleurs. Ainsi, la mise en place de tarifs douaniers ne peut être envisagée qu'à l'issue d'une négociation internationale sans quoi elle risquerait de mener à une guerre commerciale plutôt qu’à une amélioration de la situation des travailleurs en termes de création d’emploi et de pouvoir d’achat.
 
+![Triangle de Rodrik](./images/Eps32_03_Triangle_Rodrik.png "Triangle de Rodrik")
+
 ## Sources
 
 Laurent CORDONNIER - [Pas de pitié pour les gueux : sur les théories économiques du chômage](https://www.amazon.com/piti%C3%A9-pour-gueux-Laurent-Cordonnier/dp/2912107113)
