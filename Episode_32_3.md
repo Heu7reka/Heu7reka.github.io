@@ -1,11 +1,16 @@
+# Episode 32.3 : Le chômage pour les nuls - Le modèle Post-Keynésien
+
 Selon les post-keynésiens, la production des entreprises est avant tout déterminée par la demande car les entreprises ajustent leur production en fonction du remplissage du carnet de commande. 
 
 Or cette demande dépend de 2 variables :
-Ce que l’on a appelé les dépenses autonomes qui regroupent :
-Les revenus des actionnaires issus des bénéfices de l'année précédente
-Les dépenses de consommation ou d'investissement issus de la création monétaire
-Et celles issues de l'utilisation de l'épargne.
-Et la variable salariale, qui dépend du nombre de travailleurs employés et du niveau des salaires.
+
+* Ce que l’on a appelé les dépenses autonomes qui regroupent :
+** Les revenus des actionnaires issus des bénéfices de l'année précédente
+** Les dépenses de consommation ou d'investissement issus de la création monétaire
+** Et celles issues de l'utilisation de l'épargne.
+* Et la variable salariale, qui dépend du nombre de travailleurs employés et du niveau des salaires.
+
+
 L’offre quant à elle, dépend de la productivité des travailleurs que l’on considère ici comme constante, et du nombre de travailleurs employés.
 
 Selon les post-keynésiens, une économie capitaliste va naturellement chercher un équilibre pour que l’offre soit égale à la demande et celui-ci peut s’obtenir à tous les niveaux de salaires. Contrairement aux néoclassiques qui ne perçoivent qu’un seul salaire permettant à offre et demande d’être égaux, les post-keynésiens tracent une courbe qui représente tous les équilibres possibles à tous les niveaux de salaire. L’idée est donc de tenter d’influencer les agents économiques afin que le bon équilibre, celui qui permet le plein emploi, soit obtenu.
