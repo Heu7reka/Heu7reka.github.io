@@ -5,9 +5,9 @@ Selon les post-keynésiens, la production des entreprises est avant tout déterm
 Or cette demande dépend de 2 variables :
 
 * Ce que l’on a appelé les dépenses autonomes qui regroupent :
-** Les revenus des actionnaires issus des bénéfices de l'année précédente
-** Les dépenses de consommation ou d'investissement issus de la création monétaire
-** Et celles issues de l'utilisation de l'épargne.
+  * Les revenus des actionnaires issus des bénéfices de l'année précédente
+  * Les dépenses de consommation ou d'investissement issus de la création monétaire
+  * Et celles issues de l'utilisation de l'épargne.
 * Et la variable salariale, qui dépend du nombre de travailleurs employés et du niveau des salaires.
 
 
