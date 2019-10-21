@@ -1,4 +1,4 @@
-# Episode 32-02 : Le chômage pour les nuls - Faut-il tenir compte de la demande ?
+# Episode 32.2 : Le chômage pour les nuls - Faut-il tenir compte de la demande ?
 
 La question posée par l'épisode est la suivante : pourquoi les modèles de l'orthodoxie ne tiennent-ils pas compte de la demande ? Pourquoi faut-il toujours plutôt mener une politique de l'offre plutôt que de la demande ?
 
