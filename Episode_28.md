@@ -15,7 +15,7 @@ D’abord quelques constats : 80% de l’énergie que nous utilisons vient du ch
 **Source :** jancovici.com **What is energy, actually?** [Lien](https://jancovici.com/en/energy-transition/energy-and-us/what-is-energy-actually/)
 
 
-Se passer des énergies fossiles tout en continuant d’utiliser la même quantité d’énergie nécessite une révolution industrielle ! Si tant est que cela soit possible - et techniquement, c’est pas du tout gagné - il faut reconstruire toutes nos machines, voitures, bateaux, avions, tracteurs, camions pour qu’ils fonctionnent à l’électricité. Il faut fabriquer des quantités titanesques d’éoliennes, de panneaux solaires et de batteries ce qui nécessite d’extraire des quantités tout aussi énorme de métaux rares de la croute terrestre. Or, non seulement on ne sait pas si de telles ressources existent mais en plus, l’industrie minière est la deuxième industrie la plus polluante au monde après celle du recyclage des batteries au plomb. Sans compter que le chantier de la transition énergétique va nécessiter l’utilisation de toutes les machines dont on dispose actuellement et qui fonctionnent en brulant des ressources fossiles. Donc cette transition va émettre beaucoup de CO2. La conclusion, c’est qu’il y a de grandes chances pour que le sauvetage de la planète passe par une réduction de notre consommation d’énergie. Or, sur ce graphique, on voit bien qu’il existe une corrélation évidente et linéaire entre croissance économique et consommation d’énergie.
+Se passer des énergies fossiles tout en continuant d’utiliser la même quantité d’énergie nécessite une révolution industrielle ! Si tant est que cela soit possible - et techniquement, c’est pas du tout gagné - il faut reconstruire toutes nos machines, voitures, bateaux, avions, tracteurs, camions pour qu’ils fonctionnent à l’électricité. Il faut fabriquer des quantités titanesques d’éoliennes, de panneaux solaires et de batteries ce qui nécessite d’extraire des quantités tout aussi énormes de métaux rares de la croûte terrestre. Or, non seulement on ne sait pas si de telles ressources existent mais en plus, l’industrie minière est la deuxième industrie la plus polluante au monde après celle du recyclage des batteries au plomb. Sans compter que le chantier de la transition énergétique va nécessité l’utilisation de toutes les machines dont on dispose actuellement et qui fonctionnent en brûlant des ressources fossiles. Donc cette transition va émettre beaucoup de CO2. La conclusion, c’est qu’il y a de grandes chances pour que le sauvetage de la planète passe par une réduction de notre consommation d’énergie. Or, sur ce graphique, on voit bien qu’il existe une corrélation évidente et linéaire entre croissance économique et consommation d’énergie.
 
 
 ![Consommation d'énergie VS PIB](./images/Consommation_energie_vs_PIB_Mondial.png "Consommation d'énergie VS PIB")
@@ -54,10 +54,10 @@ Il s’agit d’un raisonnement théorique et mathématique.- S’il existe une 
 ![Rendements d'échelle constants](./images/Rendements_constants.png "Rendements d'échelle constants")
 
 
-**Remarque :** L et K correspondent à des quantités de "travail" (heures de travail ou nombre de travailleurs) et de "capital" (addition de la valeur de tout ce qui n'est pas du travail)
+**Remarque :** L et K correspondent à des quantités de "travail" (heures de travail ou nombre de travailleurs) et de "capital" (addition de la valeur de tout ce qui n'est pas du travail).
 
 
-Et si on considère que la rémunération ou le coût, c’est pareil, de chaque type d’ingrédient correspond à sa productivité marginale, alors, le théorème du Cost-share est vérifié.
+Et si on considère que la rémunération (ou le coût, c’est pareil) de chaque type d’ingrédient correspond à sa productivité marginale, alors, le théorème du Cost-share est vérifié.
 
 
 Le problème de ce raisonnement, c’est que les hypothèses ne sont pas très solides. Robert Solow a effectivement montré que le PIB américain pouvait être décrit par une fonction de production à rendements d’échelle constants. Une Cobb-Douglas. 
