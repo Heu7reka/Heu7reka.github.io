@@ -1,6 +1,7 @@
 # Aperçu des taxes carbone dans le monde
 ## Exemple des USA pour comprendre qu’une tarification carbone ne couvre pas forcément toutes les émissions
 Blog FMI - More Countries Are Pricing Carbon, but Emissions Are Still Too Cheap : https://www.imf.org/en/Blogs/Articles/2022/07/21/blog-more-countries-are-pricing-carbon-but-emissions-are-still-too-cheap
+
 Ian W.H. Parry ; Simon Black ; Karlygash Zhunussova (2022) - "Carbon Taxes or Emissions Trading Systems?: Instrument Choice and Design" : https://www.imf.org/en/Publications/staff-climate-notes/Issues/2022/07/14/Carbon-Taxes-or-Emissions-Trading-Systems-Instrument-Choice-and-Design-519101
 
 Wikipédia US States Emissions : https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions
@@ -47,9 +48,7 @@ https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/dp-valeu
 Rapport Quinet 2 : https://www.cesifo.org/en/publications/2022/working-paper/pricing-carbon
 
 ## Les subventions aux fossiles
-https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004
-
-Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies : https://www.eca.europa.eu/Lists/ECADocuments/RW22_01/RW_Energy_taxation_FR.pdf
+Ian W.H. Parry ; Simon Black ; Nate Vernon  (2021) - "Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies" :  https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004
 
 OECD work on support for fossil fuels : https://www.oecd.org/fossil-fuels/
 
@@ -105,9 +104,9 @@ Interprétation du EU ETS : https://climate.ec.europa.eu/system/files/2016-11/gu
 ## Le principe du CBAM
 Q&A - Carbon Border Adjustment Mechanism : https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3661
 
-https://www.consilium.europa.eu/en/press/press-releases/2022/03/15/carbon-border-adjustment-mechanism-cbam-council-agrees-its-negotiating-mandate/
+Council agrees on the Carbon Border Adjustment Mechanism (CBAM)  : https://www.consilium.europa.eu/en/press/press-releases/2022/03/15/carbon-border-adjustment-mechanism-cbam-council-agrees-its-negotiating-mandate/
 
-Council agrees on the Carbon Border Adjustment Mechanism (CBAM)  : https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/energy-transition/050923-chinas-compliance-emission-trading-system-to-accelerate-coverage-of-cbam-eligible-sectors
+China's compliance emission trading system to accelerate coverage of CBAM-eligible sectors : https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/energy-transition/050923-chinas-compliance-emission-trading-system-to-accelerate-coverage-of-cbam-eligible-sectors
 
 ## Les quotas gratuit maintenus pour laisser le temps au temps
 Donnée sur le marché de l'acier en Europe : https://www.eurofer.eu/assets/publications/brochures-booklets-and-factsheets/european-steel-in-figures-2022/European-Steel-in-Figures-2022-v2.pdf
