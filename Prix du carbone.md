@@ -7,7 +7,7 @@ Ian W.H. Parry ; Simon Black ; Karlygash Zhunussova (2022) - "Carbon Taxes or Em
 Wikipédia US States Emissions : https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions
 
 ## Exemple de l’Europe qui ne cible que certaines industries spécifiques
-## Difficile de mettre en place une tarification des GES autres que  combustion de ressources fossiles
+## Difficile de mettre en place une tarification des GES autres que pour la combustion de ressources fossiles
 
 EU ETS : https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en#sectors-and-gases-covered
 
@@ -15,7 +15,7 @@ Guidance on Interpretation of Annex I of the - EU ETS Directive : https://climat
 
 GHG emissions by sector : https://ourworldindata.org/emissions-by-sector
 
-## Visualiser les tarifications carbones
+## Visualiser les tarifications carbones dans le monde
 Le comptes mondiaux du carbone en 2022 : https://www.i4ce.org/wp-content/uploads/2022/09/220915-i4ce3632-ComptesMondiaux2022-VF-10p.pdf
 
 Carbon Taxes or Emissions Trading Systems?: Instrument Choice and Design : https://www.imf.org/en/Publications/staff-climate-notes/Issues/2022/07/14/Carbon-Taxes-or-Emissions-Trading-Systems-Instrument-Choice-and-Design-519101
@@ -39,7 +39,7 @@ PPI : https://www.numbeo.com/quality-of-life/rankings_by_country.jsp?title=2020&
 # Comment trouver le bon prix du carbone ?
 ## Le coût de la lutte par le PIB sacrifié (coût efficacité)
 ## La fonction de dommage (coûts-bénéfices)
-## Coût efficacité ou coût bénéfice
+## Coût efficacité ou coût bénéfice ?
 ## Critique du concept de prix du carbone mais nécessité d’en avoir un
 ## La notion de valeur tutélaire du carbone
 https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/dp-valeur-action-pour-climat-fevrier-2019.pdf
@@ -67,7 +67,7 @@ Study on energy subsidies and other government interventions in the European Uni
 
 Antonin Pottier (2021) - "Carte carbone, les arguments pour en débattre" : https://comptecarbone.cc/wp-content/uploads/2022/06/Pottier2021.carte_carbone_arguments.pdf
 
-## Marché vs taxe : des outils pilotables finalement très proches
+## Marché vs taxe : des outils pilotables finalement assez proches
 
 European Union Emissions Trading System : https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System#Reform_of_the_EU-ETS_and_introduction_of_the_Market_Stability_Reserve_(MSR)
 
@@ -77,8 +77,8 @@ Déciion de la commission quant à l'adoption d'un marché du carbone : https://
 
 Sur la capacité de l'UE à lever des taxes : https://european-union.europa.eu/priorities-and-actions/actions-topic/taxation_en
 
-## Un marché de quotas européens pour les particuliers
-## Marché vs taxe : pilotage d’une trajectoire de prix = hyper important pour invest et modif des comportements
+## Un marché de quotas européens pour les particuliers ?
+## Marché vs taxe : la nécessité d’une trajectoire de prix stable
 
 Q&A - Emissions Trading – Putting a Price on carbon : https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3542
 
@@ -100,15 +100,15 @@ Interprétation du EU ETS : https://climate.ec.europa.eu/system/files/2016-11/gu
 
 ## La notion de carbon leakage
 
-# CBAM  
-## Le principe du CBAM
+# CBAM ou MACF  
+## Le principe du MACF
 Q&A - Carbon Border Adjustment Mechanism : https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3661
 
 Council agrees on the Carbon Border Adjustment Mechanism (CBAM)  : https://www.consilium.europa.eu/en/press/press-releases/2022/03/15/carbon-border-adjustment-mechanism-cbam-council-agrees-its-negotiating-mandate/
 
 China's compliance emission trading system to accelerate coverage of CBAM-eligible sectors : https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/energy-transition/050923-chinas-compliance-emission-trading-system-to-accelerate-coverage-of-cbam-eligible-sectors
 
-## Les quotas gratuit maintenus pour laisser le temps au temps
+## Pourquoi maintenir des quotas gratuits
 Donnée sur le marché de l'acier en Europe : https://www.eurofer.eu/assets/publications/brochures-booklets-and-factsheets/european-steel-in-figures-2022/European-Steel-in-Figures-2022-v2.pdf
 
 Détail des distribution de quotas carbone : https://www.eea.europa.eu/data-and-maps/data/european-union-emissions-trading-scheme-17
