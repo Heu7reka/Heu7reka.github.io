@@ -11,7 +11,7 @@ Wikipédia US States Emissions : https://en.wikipedia.org/wiki/List_of_U.S._stat
 
 EU ETS : https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en#sectors-and-gases-covered
 
-Guidance on Interpretation of Annex I of the : EU ETS Directive rhttps://climate.ec.europa.eu/system/files/2016-11/guidance_interpretation_en.pdf
+Guidance on Interpretation of Annex I of the - EU ETS Directive : https://climate.ec.europa.eu/system/files/2016-11/guidance_interpretation_en.pdf
 
 GHG emissions by sector : https://ourworldindata.org/emissions-by-sector
 
