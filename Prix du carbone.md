@@ -2,7 +2,6 @@
 ## Exemple des USA pour comprendre qu’une tarification carbone ne couvre pas forcément toutes les émissions
 Blog FMI : https://www.imf.org/en/Blogs/Articles/2022/07/21/blog-more-countries-are-pricing-carbon-but-emissions-are-still-too-cheap
 Publication FMI : https://www.imf.org/en/Publications/staff-climate-notes/Issues/2022/07/14/Carbon-Taxes-or-Emissions-Trading-Systems-Instrument-Choice-and-Design-519101
-
 Wikipédia US States Emissions : https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_carbon_dioxide_emissions
 
 ## Exemple de l’Europe qui ne cible que certaines industries spécifiques
